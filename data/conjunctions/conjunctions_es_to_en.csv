@@ -1,0 +1,100 @@
+y,and,Coordinating,1 - Essential
+o,or,Coordinating,1 - Essential
+pero,but,Coordinating,1 - Essential
+que,that/which,Subordinating,1 - Essential
+porque,because,Subordinating,1 - Essential
+si,if,Subordinating,1 - Essential
+cuando,when,Subordinating,1 - Essential
+como,as/like/since,Subordinating,1 - Essential
+aunque,although/even though/even if,Subordinating,1 - Essential
+mientras,while/meanwhile,Subordinating,1 - Essential
+donde,where,Subordinating,1 - Essential
+hasta,until/up to,Subordinating,1 - Essential
+antes de,before,Subordinating,1 - Essential
+después de,after,Subordinating,1 - Essential
+para,in order to/for,Subordinating,1 - Essential
+sin,without,Subordinating,1 - Essential
+ni,nor/neither,Coordinating,1 - Essential
+sino,but rather/but instead,Coordinating,1 - Essential
+pues,well/since/so,Coordinating,1 - Essential
+e,and (before i/hi),Coordinating,1 - Essential
+así que,so/therefore,Consequence,2 - High Frequency
+por eso,that's why/therefore,Consequence,2 - High Frequency
+entonces,then/so,Consequence,2 - High Frequency
+por lo tanto,therefore/thus,Consequence,2 - High Frequency
+sin embargo,however/nevertheless,Contrast,2 - High Frequency
+no obstante,nevertheless/however,Contrast,2 - High Frequency
+a pesar de,despite/in spite of,Contrast,2 - High Frequency
+en cambio,on the other hand/instead,Contrast,2 - High Frequency
+al contrario,on the contrary,Contrast,2 - High Frequency
+además,also/furthermore/besides,Addition,2 - High Frequency
+también,also/too,Addition,2 - High Frequency
+tampoco,neither/not either,Addition,2 - High Frequency
+ni... ni,neither... nor,Addition,2 - High Frequency
+tanto... como,both... and,Addition,2 - High Frequency
+o... o,either... or,Addition,2 - High Frequency
+ya que,since/given that,Cause,2 - High Frequency
+dado que,given that,Cause,2 - High Frequency
+debido a,due to/because of,Cause,2 - High Frequency
+a causa de,because of/due to,Cause,2 - High Frequency
+gracias a,thanks to,Cause,2 - High Frequency
+para que,so that/in order that,Purpose,2 - High Frequency
+a fin de,in order to,Purpose,2 - High Frequency
+con el fin de,with the aim of,Purpose,2 - High Frequency
+con tal de que,as long as/provided that,Condition,3 - Useful Intermediate
+a menos que,unless,Condition,3 - Useful Intermediate
+siempre que,as long as/whenever,Condition,3 - Useful Intermediate
+en caso de que,in case/in the event that,Condition,3 - Useful Intermediate
+a no ser que,unless,Condition,3 - Useful Intermediate
+según,according to/as,Manner,3 - Useful Intermediate
+conforme,as/in accordance with,Manner,3 - Useful Intermediate
+tal como,just as/such as,Manner,3 - Useful Intermediate
+como si,as if,Manner,3 - Useful Intermediate
+en cuanto,as soon as,Time,3 - Useful Intermediate
+tan pronto como,as soon as,Time,3 - Useful Intermediate
+una vez que,once/as soon as,Time,3 - Useful Intermediate
+desde que,since (time),Time,3 - Useful Intermediate
+mientras que,while/whereas,Time,3 - Useful Intermediate
+cada vez que,every time that,Time,3 - Useful Intermediate
+después de que,after (with clause),Time,3 - Useful Intermediate
+antes de que,before (with clause),Time,3 - Useful Intermediate
+es decir,that is/in other words,Clarification,3 - Useful Intermediate
+o sea,in other words/that is,Clarification,3 - Useful Intermediate
+por ejemplo,for example,Clarification,3 - Useful Intermediate
+es más,furthermore/what's more,Clarification,3 - Useful Intermediate
+de hecho,in fact,Clarification,3 - Useful Intermediate
+en realidad,actually/in reality,Clarification,3 - Useful Intermediate
+por cierto,by the way,Clarification,3 - Useful Intermediate
+en cuanto a,as for/regarding,Clarification,3 - Useful Intermediate
+respecto a,regarding/with respect to,Clarification,3 - Useful Intermediate
+a pesar de que,even though/despite the fact that,Concession,4 - Advanced
+por más que,no matter how much,Concession,4 - Advanced
+aun cuando,even when/even if,Concession,4 - Advanced
+bien... bien,either... or (formal),Alternative,4 - Advanced
+ya... ya,whether... or,Alternative,4 - Advanced
+sea... sea,whether... or,Alternative,4 - Advanced
+no solo... sino también,not only... but also,Addition,4 - Advanced
+tanto... que,so much... that,Consequence,4 - Advanced
+tan... que,so... that,Consequence,4 - Advanced
+de manera que,so that/in such a way that,Consequence,4 - Advanced
+de modo que,so that/therefore,Consequence,4 - Advanced
+de ahí que,hence/that's why,Consequence,4 - Advanced
+puesto que,since/given that,Cause,4 - Advanced
+a condición de que,on the condition that,Condition,4 - Advanced
+con la condición de que,on the condition that,Condition,4 - Advanced
+siempre y cuando,as long as,Condition,4 - Advanced
+salvo que,unless/except that,Condition,4 - Advanced
+excepto que,except that,Condition,4 - Advanced
+para colmo,to top it all off,Emphasis,4 - Advanced
+encima,on top of that,Emphasis,4 - Advanced
+es que,the thing is,Emphasis,4 - Advanced
+lo que es más,what's more,Emphasis,4 - Advanced
+sobre todo,above all/especially,Emphasis,4 - Advanced
+en definitiva,in short/ultimately,Summary,4 - Advanced
+en resumen,in summary,Summary,4 - Advanced
+en conclusión,in conclusion,Summary,4 - Advanced
+al fin y al cabo,after all/when all is said and done,Summary,4 - Advanced
+en fin,anyway/in short,Summary,4 - Advanced
+total,anyway/in the end (colloquial),Summary,4 - Advanced
+a fin de cuentas,when all is said and done,Summary,4 - Advanced
+en última instancia,ultimately/in the last resort,Summary,4 - Advanced
