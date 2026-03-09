@@ -1,7 +1,3 @@
-adjective
----
-translation
-@@@
 good
 ---
 bueno/a
