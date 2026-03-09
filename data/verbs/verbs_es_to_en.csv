@@ -1,587 +1,583 @@
-ser,to be (permanent)
-estar,to be (temporary)
-tener,to have
-hacer,to do/make
-ir,to go
-poder,to be able to/can
-decir,to say/tell
-dar,to give
-ver,to see
-querer,to want/love
-saber,to know (facts)
-venir,to come
-hablar,to talk/speak
-poner,to put/place
-deber,to owe/must
-pensar,to think
-llegar,to arrive
-pasar,to pass/happen
-llevar,to carry/wear
-dejar,to leave/let
-salir,to leave/go out
-seguir,to follow/continue
-volver,to return
-tomar,to take/drink
-conocer,to know (people)
-parecer,to seem/appear
-quedar,to stay/remain
-creer,to believe
-encontrar,to find/meet
-llamar,to call
-vivir,to live
-mirar,to look/watch
-sentir,to feel/regret
-esperar,to wait/hope
-pedir,to ask for/request
-entender,to understand
-buscar,to look for/search
-trabajar,to work
-empezar,to begin/start
-recordar,to remember
-contar,to count/tell
-necesitar,to need
-leer,to read
-escribir,to write
-comer,to eat
-beber,to drink
-escuchar,to listen
-preguntar,to ask (a question)
-responder,to respond/answer
-comprender,to understand
-ayudar,to help
-tratar,to treat/try
-terminar,to finish/end
-perder,to lose
-traer,to bring
-cambiar,to change
-dormir,to sleep
-correr,to run
-abrir,to open
-cerrar,to close
-caer,to fall
-oír,to hear
-mostrar,to show
-recibir,to receive
-permitir,to allow/permit
-existir,to exist
-entrar,to enter
-aparecer,to appear
-conseguir,to achieve/get
-comenzar,to begin/start
-explicar,to explain
-lograr,to achieve/manage
-aprender,to learn
-jugar,to play
-subir,to go up/climb
-bajar,to go down/lower
-comprar,to buy
-pagar,to pay
-andar,to walk
-caminar,to walk
-morir,to die
-nacer,to be born
-amar,to love
-odiar,to hate
-reír,to laugh
-llorar,to cry
-gritar,to shout/scream
-cuidar,to take care of
-tocar,to touch/play (instrument)
-volar,to fly
-cocinar,to cook
-lavar,to wash
-divertirse,to have fun/enjoy
-aburrirse,to get bored
-enviar,to send
-usar,to use
-ganar,to win/earn
-crear,to create
-partir,to leave/split
-cortar,to cut
-producir,to produce
-realizar,to carry out/achieve
-desarrollar,to develop
-mantener,to maintain/keep
-resultar,to result/turn out
-presentar,to present/introduce
-considerar,to consider
-sacar,to take out/get
-servir,to serve
-ocurrir,to occur/happen
-suponer,to suppose/assume
-ofrecer,to offer
-establecer,to establish
-decidir,to decide
-moverse,to move
-construir,to build/construct
-formar,to form/shape
-indicar,to indicate
-aumentar,to increase
-reducir,to reduce
-colocar,to place/put
-preparar,to prepare
-llenar,to fill
-cubrir,to cover
-sufrir,to suffer
-depender,to depend
-continuar,to continue
-actuar,to act
-reconocer,to recognize
-obtener,to obtain/get
-aceptar,to accept
-contener,to contain
-importar,to matter/import
-evitar,to avoid
-elegir,to choose/elect
-asegurar,to assure/secure
-guardar,to keep/guard
-incluir,to include
-desear,to desire/wish
-intentar,to try/attempt
-estudiar,to study
-definir,to define
-imaginar,to imagine
-invitar,to invite
-romper,to break
-informar,to inform
-unir,to unite/join
-mejorar,to improve
-superar,to overcome/surpass
-sostener,to hold/sustain
-afectar,to affect
-significar,to mean/signify
-representar,to represent
-demostrar,to demonstrate/show
-proponer,to propose
-conducir,to drive/lead
-aplicar,to apply
-crecer,to grow
-convertir,to convert/turn into
-agregar,to add
-reunir,to gather/meet
-enseñar,to teach/show
-cumplir,to fulfill/comply
-alcanzar,to reach/achieve
-lanzar,to throw/launch
-obligar,to oblige/force
-distinguir,to distinguish
-arrancar,to pull out/start
-esconder,to hide
-emplear,to employ/use
-controlar,to control
-pronunciar,to pronounce
-acercar,to bring closer/approach
-componer,to compose
-descubrir,to discover
-funcionar,to function/work
-generar,to generate
-integrar,to integrate
-mencionar,to mention
-nombrar,to name/appoint
-quemar,to burn
-surgir,to arise/emerge
-vender,to sell
-abandonar,to abandon
-abrazar,to hug/embrace
-apoyar,to support
-aprovechar,to take advantage of
-arreglar,to fix/arrange
-atacar,to attack
-avanzar,to advance
-borrar,to erase/delete
-callar,to be quiet/silence
-cancelar,to cancel
-cargar,to load/carry
-compartir,to share
-comparar,to compare
-competir,to compete
-confirmar,to confirm
-conectar,to connect
-criticar,to criticize
-dedicar,to dedicate
-describir,to describe
-devolver,to return (something)
-dirigir,to direct/manage
-discutir,to discuss/argue
-distribuir,to distribute
-durar,to last/endure
-ejecutar,to execute/carry out
-eliminar,to eliminate
-enfrentar,to face/confront
-evaluar,to evaluate
-examinar,to examine
-expresar,to express
-fijar,to fix/set
-garantizar,to guarantee
-girar,to turn/rotate
-gustar,to like/please
-impedir,to prevent/impede
-imponer,to impose
-iniciar,to initiate/start
-insistir,to insist
-investigar,to investigate
-involucrar,to involve
-juntar,to join/gather
-limpiar,to clean
-manejar,to handle/manage
-marcar,to mark/score
-matar,to kill
-medir,to measure
-negar,to deny/negate
-notar,to notice
-ocupar,to occupy
-organizar,to organize
-planear,to plan
-plantear,to raise/put forward
-preocupar,to worry
-probar,to test/try/prove
-prohibir,to prohibit
-promover,to promote
-proteger,to protect
-publicar,to publish
-rechazar,to reject
-recoger,to pick up/collect
-reemplazar,to replace
-relacionar,to relate/connect
-reparar,to repair/fix
-respetar,to respect
-resolver,to resolve/solve
-revelar,to reveal
-revisar,to review/check
-señalar,to point out/indicate
-separar,to separate
-solucionar,to solve
-sonar,to sound/ring
-sorprender,to surprise
-temer,to fear
-tolerar,to tolerate
-transformar,to transform
-traducir,to translate
-valorar,to value/assess
-verificar,to verify
-visitar,to visit
-acusar,to accuse
-añadir,to add
-cansarse,to get tired
-colaborar,to collaborate
-gastar,to spend/waste
-robar,to steal/rob
-mentir,to lie/deceive
-salvar,to save/rescue
-casar,to marry
-coser,to sew
-secar,to dry
-susurrar,to whisper
-operar,to operate
-protestar,to protest
-agradecer,to thank/be grateful
-exigir,to demand/require
-repetir,to repeat
-referir,to refer
-rendir,to yield/perform
-conocerse,to know each other
-grabarse,to record
-acelerar,to accelerate/speed up
-aclarar,to clarify/clear up
-acompañar,to accompany/go with
-acordar,to agree/decide
-acostumbrar,to be accustomed to
-adaptar,to adapt
-admirar,to admire
-adquirir,to acquire/obtain
-advertir,to warn/notice
-afirmar,to affirm/state
-agotar,to exhaust/use up
-ajustar,to adjust/fit
-alegrar,to make happy/cheer up
-alimentar,to feed/nourish
-almacenar,to store
-alquilar,to rent
-alterar,to alter/disturb
-amenazar,to threaten
-ampliar,to expand/extend
-analizar,to analyze
-apagar,to turn off/extinguish
-aportar,to contribute/provide
-apostar,to bet/wager
-apreciar,to appreciate/value
-aproximar,to approach/approximate
-arrastrar,to drag/pull
-asistir,to attend/assist
-asociar,to associate
-atraer,to attract
-atravesar,to cross/go through
-atreverse,to dare
-autorizar,to authorize
-bloquear,to block
-calcular,to calculate
-capturar,to capture
-celebrar,to celebrate
-circular,to circulate/go around
-clasificar,to classify
-cobrar,to charge/collect/earn
-combinar,to combine
-comentar,to comment
-cometer,to commit (an act)
-comunicar,to communicate
-concentrar,to concentrate
-concluir,to conclude
-confiar,to trust/confide
-conformar,to conform/make up
-confrontar,to confront
-conmover,to move emotionally
-conquistar,to conquer
-conservar,to conserve/preserve
-consistir,to consist
-consultar,to consult
-contratar,to hire/contract
-copiar,to copy
-corresponder,to correspond/belong
-costar,to cost
-dañar,to damage/harm
-debatir,to debate
-decorar,to decorate
-defender,to defend
-delegar,to delegate
-deprimirse,to get depressed
-derribar,to knock down/demolish
-desaparecer,to disappear
-descansar,to rest
-desconfiar,to distrust
-desconectar,to disconnect
-desplazar,to displace/move
-destacar,to stand out/highlight
-detener,to stop/detain
-disminuir,to decrease/diminish
-disponer,to arrange/have available
-distraer,to distract
-dividir,to divide
-doblar,to fold/double/dub
-dominar,to dominate/master
-dudar,to doubt
-ejercer,to practice/exercise (a profession)
-emigrar,to emigrate
-emocionar,to excite/move emotionally
-empujar,to push
-encender,to turn on/light
-enfocar,to focus
-engañar,to deceive/trick
-enriquecer,to enrich
-entusiasmar,to enthuse/excite
-envejecer,to age/grow old
-esforzarse,to make an effort
-establecerse,to settle/establish oneself
-estimar,to estimate/esteem
-excluir,to exclude
-experimentar,to experience/experiment
-explorar,to explore
-explotar,to exploit/explode
-exportar,to export
-facilitar,to facilitate/make easy
-familiarizarse,to familiarize oneself
-fascinar,to fascinate
-financiar,to finance
-florecer,to flourish/bloom
-fortalecer,to strengthen
-fotografiar,to photograph
-frenar,to brake/slow down
-frustrar,to frustrate
-gobernar,to govern/rule
-grabar,to record/engrave
-heredar,to inherit
-huir,to flee/escape
-identificar,to identify
-iluminar,to illuminate/light up
-impresionar,to impress
-influir,to influence
-instalar,to install
-insultar,to insult
-intercambiar,to exchange/swap
-interesar,to interest
-interpretar,to interpret/perform
-interrumpir,to interrupt
-introducir,to introduce/insert
-inventar,to invent
-invertir,to invest/invert
-irritar,to irritate
-jurar,to swear/vow
-justificar,to justify
-liderar,to lead
-luchar,to fight/struggle
-manipular,to manipulate
-mezclar,to mix/blend
-modificar,to modify
-molestar,to bother/annoy
-motivar,to motivate
-mudarse,to move (residence)
-multiplicar,to multiply
-navegar,to navigate/surf (web)
-negociar,to negotiate
-observar,to observe
-ocultar,to hide/conceal
-opinar,to give an opinion
-oponer,to oppose
-orientar,to orient/guide
-pactar,to agree/make a deal
-participar,to participate
-percibir,to perceive/receive
-perdonar,to forgive/pardon
-permanecer,to remain/stay
-perseguir,to pursue/chase
-persistir,to persist
-platicar,to chat (Latin America)
-poseer,to possess/own
-practicar,to practice
-presionar,to press/pressure
-presumir,to presume/show off
-pretender,to intend/claim
-prever,to foresee/anticipate
-priorizar,to prioritize
-proceder,to proceed
-procurar,to try/endeavor
-proyectar,to project/plan
-reclamar,to claim/demand
-recomendar,to recommend
-recuperar,to recover/retrieve
-reflexionar,to reflect/think over
-registrar,to register/record
-regular,to regulate
-relacionarse,to relate to/socialize
-renunciar,to resign/give up
-reproducir,to reproduce
-requerir,to require
-resignarse,to resign oneself
-resistir,to resist
-retomar,to resume/take back
-retrasar,to delay/set back
-reunirse,to meet/gather
-sacrificar,to sacrifice
-seleccionar,to select/choose
-simplificar,to simplify
-situar,to situate/place
-solicitar,to request/apply for
-sugerir,to suggest
-suspender,to suspend/fail (exam)
-sustituir,to substitute/replace
-tardar,to take time/be late
-transferir,to transfer
-triunfar,to triumph/succeed
-ubicarse,to be located
-utilizar,to use/utilize
-vencer,to defeat/overcome/expire
-vincularse,to link/connect
-voltear,to turn over/flip
-aburrir,to bore
-acercarse,to approach/get closer
-agravar,to worsen/aggravate
-aguantar,to endure/put up with
-alegrarse,to be glad/rejoice
-animarse,to cheer up/decide to
-apasionar,to be passionate about
-armar,to arm/assemble
-atender,to attend to/serve
-atrapar,to catch/trap
-aventurar,to venture/risk
-calentar,to heat/warm up
-calmar,to calm
-captar,to capture/grasp
-ceder,to yield/give in
-chocar,to crash/clash
-cobijarse,to shelter/take cover
-comprometer,to commit/compromise
-condensar,to condense
-confundir,to confuse
-congelar,to freeze
-consagrar,to consecrate/dedicate
-convencer,to convince
-corregir,to correct
-cuestionar,to question/challenge
-darse cuenta,to realize
-debilitar,to weaken
-depositar,to deposit
-desarrollarse,to develop/take place
-desbordar,to overflow/overwhelm
-despedir,to fire/say goodbye
-despertar,to wake up/awaken
-deteriorar,to deteriorate
-digerir,to digest
-disculpar,to excuse/forgive
-disfrutar,to enjoy
-distanciar,to distance
-dramatizar,to dramatize
-empeorar,to worsen
-encajar,to fit/match
-encargarse,to be in charge of
-equivocarse,to be wrong/make a mistake
-escasear,to be scarce
-estrenar,to premiere/use for first time
-extender,to extend/spread
-extrañar,to miss/find strange
-fabricar,to manufacture/fabricate
-fingir,to pretend/fake
-formular,to formulate
-fracasar,to fail
-impactar,to impact
-implicar,to imply/involve
-incomodar,to inconvenience/bother
-incrementar,to increase/increment
-inscribirse,to register/enroll
-inspirar,to inspire
-intervenir,to intervene
-irritarse,to get irritated
-lamentar,to regret/lament
-liberar,to free/liberate
-limitarse,to limit oneself
-localizar,to locate/find
-madrugar,to get up early
-manifestar,to manifest/express
-merecer,to deserve/merit
-minimizar,to minimize
-mitigar,to mitigate
-modelar,to model/shape
-normalizar,to normalize
-oponerse,to oppose/object
-optimizar,to optimize
-pararse,to stop/stand up
-perjudicar,to harm/damage
-pertenecer,to belong
-plantarse,to stand firm
-posibilitar,to make possible
-postergar,to postpone
-precisar,to specify/need
-presupuestar,to budget
-progresar,to progress
-prolongar,to prolong/extend
-provocar,to provoke/cause
-razonar,to reason
-reaccionar,to react
-reconstruir,to reconstruct
-recurrir,to resort to/appeal
-redactar,to write/draft
-renovar,to renew/renovate
-repasar,to review/go over
-reprimir,to repress/suppress
-retar,to challenge
-retirar,to withdraw/remove
-rogar,to beg/pray
-saltarse,to skip/jump over
-sancionar,to sanction/penalize
-satisfacer,to satisfy
-simular,to simulate/pretend
-soltar,to release/let go
-sospechar,to suspect
-suavizar,to soften/smooth
-tambalear,to stagger/wobble
-acudir,to go/come/turn to
-encargar,to order/entrust
-escalar,to climb/scale
-predecir,to predict
-programar,to program/schedule
-reagrupar,to regroup
-remitir,to send/refer
-ubicar,to locate/place
-yacer,to lie (be lying down)
-oir,to hear (alt spelling)
-enseñarse,to get angry
-intentarse,to attempt
-necesitarse,to be needed
+verb,translation,tier
+ser,to be (permanent),1 - Core Essentials
+estar,to be (temporary),1 - Core Essentials
+tener,to have,1 - Core Essentials
+hacer,to do/make,1 - Core Essentials
+ir,to go,1 - Core Essentials
+poder,to be able to/can,1 - Core Essentials
+decir,to say/tell,1 - Core Essentials
+dar,to give,1 - Core Essentials
+ver,to see,1 - Core Essentials
+querer,to want/love,1 - Core Essentials
+saber,to know (facts),1 - Core Essentials
+venir,to come,1 - Core Essentials
+hablar,to talk/speak,1 - Core Essentials
+poner,to put/place,1 - Core Essentials
+deber,to owe/must,1 - Core Essentials
+pensar,to think,1 - Core Essentials
+llegar,to arrive,1 - Core Essentials
+pasar,to pass/happen,1 - Core Essentials
+llevar,to carry/wear,1 - Core Essentials
+dejar,to leave/let,1 - Core Essentials
+salir,to leave/go out,1 - Core Essentials
+seguir,to follow/continue,1 - Core Essentials
+volver,to return,1 - Core Essentials
+tomar,to take/drink,1 - Core Essentials
+conocer,to know (people),1 - Core Essentials
+parecer,to seem/appear,1 - Core Essentials
+quedar,to stay/remain,1 - Core Essentials
+creer,to believe,1 - Core Essentials
+encontrar,to find/meet,1 - Core Essentials
+llamar,to call,1 - Core Essentials
+vivir,to live,1 - Core Essentials
+mirar,to look/watch,1 - Core Essentials
+sentir,to feel/regret,1 - Core Essentials
+esperar,to wait/hope,1 - Core Essentials
+pedir,to ask for/request,1 - Core Essentials
+entender,to understand,1 - Core Essentials
+buscar,to look for/search,1 - Core Essentials
+trabajar,to work,1 - Core Essentials
+empezar,to begin/start,1 - Core Essentials
+recordar,to remember,1 - Core Essentials
+contar,to count/tell,1 - Core Essentials
+necesitar,to need,1 - Core Essentials
+leer,to read,1 - Core Essentials
+escribir,to write,1 - Core Essentials
+comer,to eat,1 - Core Essentials
+beber,to drink,1 - Core Essentials
+escuchar,to listen,1 - Core Essentials
+preguntar,to ask (a question),1 - Core Essentials
+responder,to respond/answer,1 - Core Essentials
+comprender,to understand,1 - Core Essentials
+ayudar,to help,2 - High Frequency
+tratar,to treat/try,2 - High Frequency
+terminar,to finish/end,2 - High Frequency
+perder,to lose,2 - High Frequency
+traer,to bring,2 - High Frequency
+cambiar,to change,2 - High Frequency
+dormir,to sleep,2 - High Frequency
+correr,to run,2 - High Frequency
+abrir,to open,2 - High Frequency
+cerrar,to close,2 - High Frequency
+caer,to fall,2 - High Frequency
+oír,to hear,2 - High Frequency
+mostrar,to show,2 - High Frequency
+recibir,to receive,2 - High Frequency
+permitir,to allow/permit,2 - High Frequency
+existir,to exist,2 - High Frequency
+entrar,to enter,2 - High Frequency
+aparecer,to appear,2 - High Frequency
+conseguir,to achieve/get,2 - High Frequency
+comenzar,to begin/start,2 - High Frequency
+explicar,to explain,2 - High Frequency
+lograr,to achieve/manage,2 - High Frequency
+aprender,to learn,2 - High Frequency
+jugar,to play,2 - High Frequency
+subir,to go up/climb,2 - High Frequency
+bajar,to go down/lower,2 - High Frequency
+comprar,to buy,2 - High Frequency
+pagar,to pay,2 - High Frequency
+andar,to walk,2 - High Frequency
+caminar,to walk,2 - High Frequency
+morir,to die,2 - High Frequency
+nacer,to be born,2 - High Frequency
+amar,to love,2 - High Frequency
+odiar,to hate,2 - High Frequency
+reír,to laugh,2 - High Frequency
+llorar,to cry,2 - High Frequency
+gritar,to shout/scream,2 - High Frequency
+cuidar,to take care of,2 - High Frequency
+tocar,to touch/play (instrument),2 - High Frequency
+volar,to fly,2 - High Frequency
+cocinar,to cook,2 - High Frequency
+lavar,to wash,2 - High Frequency
+divertirse,to have fun/enjoy,2 - High Frequency
+aburrirse,to get bored,2 - High Frequency
+enviar,to send,2 - High Frequency
+usar,to use,2 - High Frequency
+ganar,to win/earn,2 - High Frequency
+crear,to create,2 - High Frequency
+partir,to leave/split,2 - High Frequency
+cortar,to cut,2 - High Frequency
+producir,to produce,3 - Everyday Practical
+realizar,to carry out/achieve,3 - Everyday Practical
+desarrollar,to develop,3 - Everyday Practical
+mantener,to maintain/keep,3 - Everyday Practical
+resultar,to result/turn out,3 - Everyday Practical
+presentar,to present/introduce,3 - Everyday Practical
+considerar,to consider,3 - Everyday Practical
+sacar,to take out/get,3 - Everyday Practical
+servir,to serve,3 - Everyday Practical
+ocurrir,to occur/happen,3 - Everyday Practical
+suponer,to suppose/assume,3 - Everyday Practical
+ofrecer,to offer,3 - Everyday Practical
+establecer,to establish,3 - Everyday Practical
+decidir,to decide,3 - Everyday Practical
+moverse,to move,3 - Everyday Practical
+construir,to build/construct,3 - Everyday Practical
+formar,to form/shape,3 - Everyday Practical
+indicar,to indicate,3 - Everyday Practical
+aumentar,to increase,3 - Everyday Practical
+reducir,to reduce,3 - Everyday Practical
+colocar,to place/put,3 - Everyday Practical
+preparar,to prepare,3 - Everyday Practical
+llenar,to fill,3 - Everyday Practical
+cubrir,to cover,3 - Everyday Practical
+sufrir,to suffer,3 - Everyday Practical
+depender,to depend,3 - Everyday Practical
+continuar,to continue,3 - Everyday Practical
+actuar,to act,3 - Everyday Practical
+reconocer,to recognize,3 - Everyday Practical
+obtener,to obtain/get,3 - Everyday Practical
+aceptar,to accept,3 - Everyday Practical
+contener,to contain,3 - Everyday Practical
+importar,to matter/import,3 - Everyday Practical
+evitar,to avoid,3 - Everyday Practical
+elegir,to choose/elect,3 - Everyday Practical
+asegurar,to assure/secure,3 - Everyday Practical
+guardar,to keep/guard,3 - Everyday Practical
+incluir,to include,3 - Everyday Practical
+desear,to desire/wish,3 - Everyday Practical
+intentar,to try/attempt,3 - Everyday Practical
+estudiar,to study,3 - Everyday Practical
+definir,to define,3 - Everyday Practical
+imaginar,to imagine,3 - Everyday Practical
+invitar,to invite,3 - Everyday Practical
+romper,to break,3 - Everyday Practical
+informar,to inform,3 - Everyday Practical
+unir,to unite/join,3 - Everyday Practical
+mejorar,to improve,3 - Everyday Practical
+superar,to overcome/surpass,3 - Everyday Practical
+sostener,to hold/sustain,3 - Everyday Practical
+afectar,to affect,4 - Useful Intermediate
+significar,to mean/signify,4 - Useful Intermediate
+representar,to represent,4 - Useful Intermediate
+demostrar,to demonstrate/show,4 - Useful Intermediate
+proponer,to propose,4 - Useful Intermediate
+conducir,to drive/lead,4 - Useful Intermediate
+aplicar,to apply,4 - Useful Intermediate
+crecer,to grow,4 - Useful Intermediate
+convertir,to convert/turn into,4 - Useful Intermediate
+agregar,to add,4 - Useful Intermediate
+reunir,to gather/meet,4 - Useful Intermediate
+enseñar,to teach/show,4 - Useful Intermediate
+cumplir,to fulfill/comply,4 - Useful Intermediate
+alcanzar,to reach/achieve,4 - Useful Intermediate
+lanzar,to throw/launch,4 - Useful Intermediate
+obligar,to oblige/force,4 - Useful Intermediate
+distinguir,to distinguish,4 - Useful Intermediate
+arrancar,to pull out/start,4 - Useful Intermediate
+esconder,to hide,4 - Useful Intermediate
+emplear,to employ/use,4 - Useful Intermediate
+controlar,to control,4 - Useful Intermediate
+pronunciar,to pronounce,4 - Useful Intermediate
+acercar,to bring closer/approach,4 - Useful Intermediate
+componer,to compose,4 - Useful Intermediate
+descubrir,to discover,4 - Useful Intermediate
+funcionar,to function/work,4 - Useful Intermediate
+generar,to generate,4 - Useful Intermediate
+integrar,to integrate,4 - Useful Intermediate
+mencionar,to mention,4 - Useful Intermediate
+nombrar,to name/appoint,4 - Useful Intermediate
+quemar,to burn,4 - Useful Intermediate
+surgir,to arise/emerge,4 - Useful Intermediate
+vender,to sell,4 - Useful Intermediate
+abandonar,to abandon,4 - Useful Intermediate
+abrazar,to hug/embrace,4 - Useful Intermediate
+apoyar,to support,4 - Useful Intermediate
+aprovechar,to take advantage of,4 - Useful Intermediate
+arreglar,to fix/arrange,4 - Useful Intermediate
+atacar,to attack,4 - Useful Intermediate
+avanzar,to advance,4 - Useful Intermediate
+borrar,to erase/delete,4 - Useful Intermediate
+callar,to be quiet/silence,4 - Useful Intermediate
+cancelar,to cancel,4 - Useful Intermediate
+cargar,to load/carry,4 - Useful Intermediate
+compartir,to share,4 - Useful Intermediate
+comparar,to compare,4 - Useful Intermediate
+competir,to compete,4 - Useful Intermediate
+confirmar,to confirm,4 - Useful Intermediate
+conectar,to connect,4 - Useful Intermediate
+criticar,to criticize,4 - Useful Intermediate
+dedicar,to dedicate,4 - Useful Intermediate
+describir,to describe,4 - Useful Intermediate
+devolver,to return (something),4 - Useful Intermediate
+dirigir,to direct/manage,4 - Useful Intermediate
+discutir,to discuss/argue,4 - Useful Intermediate
+distribuir,to distribute,4 - Useful Intermediate
+durar,to last/endure,4 - Useful Intermediate
+ejecutar,to execute/carry out,4 - Useful Intermediate
+eliminar,to eliminate,4 - Useful Intermediate
+enfrentar,to face/confront,4 - Useful Intermediate
+evaluar,to evaluate,4 - Useful Intermediate
+examinar,to examine,4 - Useful Intermediate
+expresar,to express,4 - Useful Intermediate
+fijar,to fix/set,4 - Useful Intermediate
+garantizar,to guarantee,4 - Useful Intermediate
+girar,to turn/rotate,4 - Useful Intermediate
+gustar,to like/please,4 - Useful Intermediate
+impedir,to prevent/impede,4 - Useful Intermediate
+imponer,to impose,4 - Useful Intermediate
+iniciar,to initiate/start,4 - Useful Intermediate
+insistir,to insist,4 - Useful Intermediate
+investigar,to investigate,4 - Useful Intermediate
+involucrar,to involve,4 - Useful Intermediate
+juntar,to join/gather,4 - Useful Intermediate
+limpiar,to clean,4 - Useful Intermediate
+manejar,to handle/manage,4 - Useful Intermediate
+marcar,to mark/score,4 - Useful Intermediate
+matar,to kill,4 - Useful Intermediate
+medir,to measure,4 - Useful Intermediate
+negar,to deny/negate,4 - Useful Intermediate
+notar,to notice,4 - Useful Intermediate
+ocupar,to occupy,4 - Useful Intermediate
+organizar,to organize,4 - Useful Intermediate
+planear,to plan,4 - Useful Intermediate
+plantear,to raise/put forward,4 - Useful Intermediate
+preocupar,to worry,4 - Useful Intermediate
+probar,to test/try/prove,4 - Useful Intermediate
+prohibir,to prohibit,4 - Useful Intermediate
+promover,to promote,4 - Useful Intermediate
+proteger,to protect,4 - Useful Intermediate
+publicar,to publish,4 - Useful Intermediate
+rechazar,to reject,4 - Useful Intermediate
+recoger,to pick up/collect,4 - Useful Intermediate
+reemplazar,to replace,4 - Useful Intermediate
+relacionar,to relate/connect,4 - Useful Intermediate
+reparar,to repair/fix,4 - Useful Intermediate
+respetar,to respect,4 - Useful Intermediate
+resolver,to resolve/solve,4 - Useful Intermediate
+revelar,to reveal,4 - Useful Intermediate
+revisar,to review/check,4 - Useful Intermediate
+señalar,to point out/indicate,5 - Advanced Vocabulary
+separar,to separate,5 - Advanced Vocabulary
+solucionar,to solve,5 - Advanced Vocabulary
+sonar,to sound/ring,5 - Advanced Vocabulary
+sorprender,to surprise,5 - Advanced Vocabulary
+temer,to fear,5 - Advanced Vocabulary
+tolerar,to tolerate,5 - Advanced Vocabulary
+transformar,to transform,5 - Advanced Vocabulary
+traducir,to translate,5 - Advanced Vocabulary
+valorar,to value/assess,5 - Advanced Vocabulary
+verificar,to verify,5 - Advanced Vocabulary
+visitar,to visit,5 - Advanced Vocabulary
+acusar,to accuse,5 - Advanced Vocabulary
+añadir,to add,5 - Advanced Vocabulary
+cansarse,to get tired,5 - Advanced Vocabulary
+colaborar,to collaborate,5 - Advanced Vocabulary
+gastar,to spend/waste,5 - Advanced Vocabulary
+robar,to steal/rob,5 - Advanced Vocabulary
+mentir,to lie/deceive,5 - Advanced Vocabulary
+salvar,to save/rescue,5 - Advanced Vocabulary
+casar,to marry,5 - Advanced Vocabulary
+coser,to sew,5 - Advanced Vocabulary
+secar,to dry,5 - Advanced Vocabulary
+susurrar,to whisper,5 - Advanced Vocabulary
+operar,to operate,5 - Advanced Vocabulary
+protestar,to protest,5 - Advanced Vocabulary
+agradecer,to thank/be grateful,5 - Advanced Vocabulary
+exigir,to demand/require,5 - Advanced Vocabulary
+repetir,to repeat,5 - Advanced Vocabulary
+referir,to refer,5 - Advanced Vocabulary
+rendir,to yield/perform,5 - Advanced Vocabulary
+conocerse,to know each other,5 - Advanced Vocabulary
+grabarse,to record,5 - Advanced Vocabulary
+acelerar,to accelerate/speed up,5 - Advanced Vocabulary
+aclarar,to clarify/clear up,5 - Advanced Vocabulary
+acompañar,to accompany/go with,5 - Advanced Vocabulary
+acordar,to agree/decide,5 - Advanced Vocabulary
+acostumbrar,to be accustomed to,5 - Advanced Vocabulary
+adaptar,to adapt,5 - Advanced Vocabulary
+admirar,to admire,5 - Advanced Vocabulary
+adquirir,to acquire/obtain,5 - Advanced Vocabulary
+advertir,to warn/notice,5 - Advanced Vocabulary
+afirmar,to affirm/state,5 - Advanced Vocabulary
+agotar,to exhaust/use up,5 - Advanced Vocabulary
+ajustar,to adjust/fit,5 - Advanced Vocabulary
+alegrar,to make happy/cheer up,5 - Advanced Vocabulary
+alimentar,to feed/nourish,5 - Advanced Vocabulary
+almacenar,to store,5 - Advanced Vocabulary
+alquilar,to rent,5 - Advanced Vocabulary
+alterar,to alter/disturb,5 - Advanced Vocabulary
+amenazar,to threaten,5 - Advanced Vocabulary
+ampliar,to expand/extend,5 - Advanced Vocabulary
+analizar,to analyze,5 - Advanced Vocabulary
+apagar,to turn off/extinguish,5 - Advanced Vocabulary
+aportar,to contribute/provide,5 - Advanced Vocabulary
+apostar,to bet/wager,5 - Advanced Vocabulary
+apreciar,to appreciate/value,5 - Advanced Vocabulary
+aproximar,to approach/approximate,5 - Advanced Vocabulary
+arrastrar,to drag/pull,5 - Advanced Vocabulary
+asistir,to attend/assist,5 - Advanced Vocabulary
+asociar,to associate,5 - Advanced Vocabulary
+atraer,to attract,5 - Advanced Vocabulary
+atravesar,to cross/go through,5 - Advanced Vocabulary
+atreverse,to dare,5 - Advanced Vocabulary
+autorizar,to authorize,5 - Advanced Vocabulary
+bloquear,to block,5 - Advanced Vocabulary
+calcular,to calculate,5 - Advanced Vocabulary
+capturar,to capture,5 - Advanced Vocabulary
+celebrar,to celebrate,5 - Advanced Vocabulary
+circular,to circulate/go around,5 - Advanced Vocabulary
+clasificar,to classify,5 - Advanced Vocabulary
+cobrar,to charge/collect/earn,5 - Advanced Vocabulary
+combinar,to combine,5 - Advanced Vocabulary
+comentar,to comment,5 - Advanced Vocabulary
+cometer,to commit (an act),5 - Advanced Vocabulary
+comunicar,to communicate,5 - Advanced Vocabulary
+concentrar,to concentrate,5 - Advanced Vocabulary
+concluir,to conclude,5 - Advanced Vocabulary
+confiar,to trust/confide,5 - Advanced Vocabulary
+conformar,to conform/make up,5 - Advanced Vocabulary
+confrontar,to confront,5 - Advanced Vocabulary
+conmover,to move emotionally,5 - Advanced Vocabulary
+conquistar,to conquer,5 - Advanced Vocabulary
+conservar,to conserve/preserve,5 - Advanced Vocabulary
+consistir,to consist,5 - Advanced Vocabulary
+consultar,to consult,5 - Advanced Vocabulary
+contratar,to hire/contract,5 - Advanced Vocabulary
+copiar,to copy,5 - Advanced Vocabulary
+corresponder,to correspond/belong,5 - Advanced Vocabulary
+costar,to cost,5 - Advanced Vocabulary
+dañar,to damage/harm,5 - Advanced Vocabulary
+debatir,to debate,5 - Advanced Vocabulary
+decorar,to decorate,5 - Advanced Vocabulary
+defender,to defend,5 - Advanced Vocabulary
+delegar,to delegate,5 - Advanced Vocabulary
+deprimirse,to get depressed,5 - Advanced Vocabulary
+derribar,to knock down/demolish,5 - Advanced Vocabulary
+desaparecer,to disappear,5 - Advanced Vocabulary
+descansar,to rest,5 - Advanced Vocabulary
+desconfiar,to distrust,5 - Advanced Vocabulary
+desconectar,to disconnect,5 - Advanced Vocabulary
+desplazar,to displace/move,5 - Advanced Vocabulary
+destacar,to stand out/highlight,5 - Advanced Vocabulary
+detener,to stop/detain,5 - Advanced Vocabulary
+disminuir,to decrease/diminish,5 - Advanced Vocabulary
+disponer,to arrange/have available,5 - Advanced Vocabulary
+distraer,to distract,5 - Advanced Vocabulary
+dividir,to divide,5 - Advanced Vocabulary
+doblar,to fold/double/dub,5 - Advanced Vocabulary
+dominar,to dominate/master,5 - Advanced Vocabulary
+dudar,to doubt,5 - Advanced Vocabulary
+ejercer,to practice/exercise (a profession),5 - Advanced Vocabulary
+emigrar,to emigrate,5 - Advanced Vocabulary
+emocionar,to excite/move emotionally,5 - Advanced Vocabulary
+empujar,to push,5 - Advanced Vocabulary
+encender,to turn on/light,5 - Advanced Vocabulary
+enfocar,to focus,5 - Advanced Vocabulary
+engañar,to deceive/trick,5 - Advanced Vocabulary
+enriquecer,to enrich,5 - Advanced Vocabulary
+entusiasmar,to enthuse/excite,5 - Advanced Vocabulary
+envejecer,to age/grow old,5 - Advanced Vocabulary
+esforzarse,to make an effort,5 - Advanced Vocabulary
+establecerse,to settle/establish oneself,5 - Advanced Vocabulary
+estimar,to estimate/esteem,5 - Advanced Vocabulary
+excluir,to exclude,5 - Advanced Vocabulary
+experimentar,to experience/experiment,5 - Advanced Vocabulary
+explorar,to explore,5 - Advanced Vocabulary
+explotar,to exploit/explode,5 - Advanced Vocabulary
+exportar,to export,5 - Advanced Vocabulary
+facilitar,to facilitate/make easy,5 - Advanced Vocabulary
+familiarizarse,to familiarize oneself,5 - Advanced Vocabulary
+fascinar,to fascinate,5 - Advanced Vocabulary
+financiar,to finance,5 - Advanced Vocabulary
+florecer,to flourish/bloom,5 - Advanced Vocabulary
+fortalecer,to strengthen,5 - Advanced Vocabulary
+fotografiar,to photograph,5 - Advanced Vocabulary
+frenar,to brake/slow down,5 - Advanced Vocabulary
+frustrar,to frustrate,5 - Advanced Vocabulary
+gobernar,to govern/rule,5 - Advanced Vocabulary
+grabar,to record/engrave,5 - Advanced Vocabulary
+heredar,to inherit,5 - Advanced Vocabulary
+huir,to flee/escape,5 - Advanced Vocabulary
+identificar,to identify,5 - Advanced Vocabulary
+iluminar,to illuminate/light up,5 - Advanced Vocabulary
+impresionar,to impress,5 - Advanced Vocabulary
+influir,to influence,5 - Advanced Vocabulary
+instalar,to install,5 - Advanced Vocabulary
+insultar,to insult,5 - Advanced Vocabulary
+intercambiar,to exchange/swap,5 - Advanced Vocabulary
+interesar,to interest,5 - Advanced Vocabulary
+interpretar,to interpret/perform,5 - Advanced Vocabulary
+interrumpir,to interrupt,5 - Advanced Vocabulary
+introducir,to introduce/insert,5 - Advanced Vocabulary
+inventar,to invent,5 - Advanced Vocabulary
+invertir,to invest/invert,5 - Advanced Vocabulary
+irritar,to irritate,5 - Advanced Vocabulary
+jurar,to swear/vow,5 - Advanced Vocabulary
+justificar,to justify,5 - Advanced Vocabulary
+liderar,to lead,5 - Advanced Vocabulary
+luchar,to fight/struggle,5 - Advanced Vocabulary
+manipular,to manipulate,5 - Advanced Vocabulary
+mezclar,to mix/blend,5 - Advanced Vocabulary
+modificar,to modify,5 - Advanced Vocabulary
+molestar,to bother/annoy,5 - Advanced Vocabulary
+motivar,to motivate,5 - Advanced Vocabulary
+mudarse,to move (residence),5 - Advanced Vocabulary
+multiplicar,to multiply,5 - Advanced Vocabulary
+navegar,to navigate/surf (web),5 - Advanced Vocabulary
+negociar,to negotiate,5 - Advanced Vocabulary
+observar,to observe,5 - Advanced Vocabulary
+ocultar,to hide/conceal,5 - Advanced Vocabulary
+opinar,to give an opinion,5 - Advanced Vocabulary
+oponer,to oppose,5 - Advanced Vocabulary
+orientar,to orient/guide,5 - Advanced Vocabulary
+pactar,to agree/make a deal,5 - Advanced Vocabulary
+participar,to participate,5 - Advanced Vocabulary
+percibir,to perceive/receive,5 - Advanced Vocabulary
+perdonar,to forgive/pardon,5 - Advanced Vocabulary
+permanecer,to remain/stay,5 - Advanced Vocabulary
+perseguir,to pursue/chase,5 - Advanced Vocabulary
+persistir,to persist,5 - Advanced Vocabulary
+platicar,to chat (Latin America),5 - Advanced Vocabulary
+poseer,to possess/own,5 - Advanced Vocabulary
+practicar,to practice,5 - Advanced Vocabulary
+presionar,to press/pressure,5 - Advanced Vocabulary
+presumir,to presume/show off,5 - Advanced Vocabulary
+pretender,to intend/claim,5 - Advanced Vocabulary
+prever,to foresee/anticipate,5 - Advanced Vocabulary
+priorizar,to prioritize,5 - Advanced Vocabulary
+proceder,to proceed,5 - Advanced Vocabulary
+procurar,to try/endeavor,5 - Advanced Vocabulary
+proyectar,to project/plan,5 - Advanced Vocabulary
+reclamar,to claim/demand,5 - Advanced Vocabulary
+recomendar,to recommend,5 - Advanced Vocabulary
+recuperar,to recover/retrieve,5 - Advanced Vocabulary
+reflexionar,to reflect/think over,5 - Advanced Vocabulary
+registrar,to register/record,5 - Advanced Vocabulary
+regular,to regulate,5 - Advanced Vocabulary
+relacionarse,to relate to/socialize,5 - Advanced Vocabulary
+renunciar,to resign/give up,5 - Advanced Vocabulary
+reproducir,to reproduce,5 - Advanced Vocabulary
+requerir,to require,5 - Advanced Vocabulary
+resignarse,to resign oneself,5 - Advanced Vocabulary
+resistir,to resist,5 - Advanced Vocabulary
+retomar,to resume/take back,5 - Advanced Vocabulary
+retrasar,to delay/set back,5 - Advanced Vocabulary
+reunirse,to meet/gather,5 - Advanced Vocabulary
+sacrificar,to sacrifice,5 - Advanced Vocabulary
+seleccionar,to select/choose,5 - Advanced Vocabulary
+simplificar,to simplify,5 - Advanced Vocabulary
+situar,to situate/place,5 - Advanced Vocabulary
+solicitar,to request/apply for,5 - Advanced Vocabulary
+sugerir,to suggest,5 - Advanced Vocabulary
+suspender,to suspend/fail (exam),5 - Advanced Vocabulary
+sustituir,to substitute/replace,5 - Advanced Vocabulary
+tardar,to take time/be late,5 - Advanced Vocabulary
+transferir,to transfer,5 - Advanced Vocabulary
+triunfar,to triumph/succeed,5 - Advanced Vocabulary
+ubicarse,to be located,5 - Advanced Vocabulary
+utilizar,to use/utilize,5 - Advanced Vocabulary
+vencer,to defeat/overcome/expire,5 - Advanced Vocabulary
+vincularse,to link/connect,5 - Advanced Vocabulary
+voltear,to turn over/flip,5 - Advanced Vocabulary
+aburrir,to bore,5 - Advanced Vocabulary
+acercarse,to approach/get closer,5 - Advanced Vocabulary
+agravar,to worsen/aggravate,5 - Advanced Vocabulary
+aguantar,to endure/put up with,5 - Advanced Vocabulary
+alegrarse,to be glad/rejoice,5 - Advanced Vocabulary
+animarse,to cheer up/decide to,5 - Advanced Vocabulary
+apasionar,to be passionate about,5 - Advanced Vocabulary
+armar,to arm/assemble,5 - Advanced Vocabulary
+atender,to attend to/serve,5 - Advanced Vocabulary
+atrapar,to catch/trap,5 - Advanced Vocabulary
+aventurar,to venture/risk,5 - Advanced Vocabulary
+calentar,to heat/warm up,5 - Advanced Vocabulary
+calmar,to calm,5 - Advanced Vocabulary
+captar,to capture/grasp,5 - Advanced Vocabulary
+ceder,to yield/give in,5 - Advanced Vocabulary
+chocar,to crash/clash,5 - Advanced Vocabulary
+cobijarse,to shelter/take cover,5 - Advanced Vocabulary
+comprometer,to commit/compromise,5 - Advanced Vocabulary
+condensar,to condense,5 - Advanced Vocabulary
+confundir,to confuse,5 - Advanced Vocabulary
+congelar,to freeze,5 - Advanced Vocabulary
+convencer,to convince,5 - Advanced Vocabulary
+corregir,to correct,5 - Advanced Vocabulary
+cuestionar,to question/challenge,5 - Advanced Vocabulary
+darse cuenta,to realize,6 - Specialized/Nuanced
+debilitar,to weaken,6 - Specialized/Nuanced
+depositar,to deposit,6 - Specialized/Nuanced
+desarrollarse,to develop/take place,6 - Specialized/Nuanced
+despedir,to fire/say goodbye,6 - Specialized/Nuanced
+despertar,to wake up/awaken,6 - Specialized/Nuanced
+deteriorar,to deteriorate,6 - Specialized/Nuanced
+digerir,to digest,6 - Specialized/Nuanced
+disculpar,to excuse/forgive,6 - Specialized/Nuanced
+disfrutar,to enjoy,6 - Specialized/Nuanced
+distanciar,to distance,6 - Specialized/Nuanced
+dramatizar,to dramatize,6 - Specialized/Nuanced
+empeorar,to worsen,6 - Specialized/Nuanced
+encajar,to fit/match,6 - Specialized/Nuanced
+encargarse,to be in charge of,6 - Specialized/Nuanced
+equivocarse,to be wrong/make a mistake,6 - Specialized/Nuanced
+escasear,to be scarce,6 - Specialized/Nuanced
+estrenar,to premiere/use for first time,6 - Specialized/Nuanced
+extender,to extend/spread,6 - Specialized/Nuanced
+extrañar,to miss/find strange,6 - Specialized/Nuanced
+fabricar,to manufacture/fabricate,6 - Specialized/Nuanced
+fingir,to pretend/fake,6 - Specialized/Nuanced
+formular,to formulate,6 - Specialized/Nuanced
+fracasar,to fail,6 - Specialized/Nuanced
+impactar,to impact,6 - Specialized/Nuanced
+implicar,to imply/involve,6 - Specialized/Nuanced
+incomodar,to inconvenience/bother,6 - Specialized/Nuanced
+incrementar,to increase/increment,6 - Specialized/Nuanced
+inscribirse,to register/enroll,6 - Specialized/Nuanced
+inspirar,to inspire,6 - Specialized/Nuanced
+intervenir,to intervene,6 - Specialized/Nuanced
+irritarse,to get irritated,6 - Specialized/Nuanced
+lamentar,to regret/lament,6 - Specialized/Nuanced
+liberar,to free/liberate,6 - Specialized/Nuanced
+limitarse,to limit oneself,6 - Specialized/Nuanced
+localizar,to locate/find,6 - Specialized/Nuanced
+madrugar,to get up early,6 - Specialized/Nuanced
+manifestar,to manifest/express,6 - Specialized/Nuanced
+merecer,to deserve/merit,6 - Specialized/Nuanced
+minimizar,to minimize,6 - Specialized/Nuanced
+mitigar,to mitigate,6 - Specialized/Nuanced
+modelar,to model/shape,6 - Specialized/Nuanced
+normalizar,to normalize,6 - Specialized/Nuanced
+oponerse,to oppose/object,6 - Specialized/Nuanced
+optimizar,to optimize,6 - Specialized/Nuanced
+pararse,to stop/stand up,6 - Specialized/Nuanced
+perjudicar,to harm/damage,6 - Specialized/Nuanced
+pertenecer,to belong,6 - Specialized/Nuanced
+plantarse,to stand firm,6 - Specialized/Nuanced
+posibilitar,to make possible,6 - Specialized/Nuanced
+postergar,to postpone,6 - Specialized/Nuanced
+precisar,to specify/need,6 - Specialized/Nuanced
+presupuestar,to budget,6 - Specialized/Nuanced
+progresar,to progress,6 - Specialized/Nuanced
+prolongar,to prolong/extend,6 - Specialized/Nuanced
+provocar,to provoke/cause,6 - Specialized/Nuanced
+razonar,to reason,6 - Specialized/Nuanced
+reaccionar,to react,6 - Specialized/Nuanced
+reconstruir,to reconstruct,6 - Specialized/Nuanced
+recurrir,to resort to/appeal,6 - Specialized/Nuanced
+redactar,to write/draft,6 - Specialized/Nuanced
+renovar,to renew/renovate,6 - Specialized/Nuanced
+repasar,to review/go over,6 - Specialized/Nuanced
+reprimir,to repress/suppress,6 - Specialized/Nuanced
+retar,to challenge,6 - Specialized/Nuanced
+retirar,to withdraw/remove,6 - Specialized/Nuanced
+rogar,to beg/pray,6 - Specialized/Nuanced
+saltarse,to skip/jump over,6 - Specialized/Nuanced
+sancionar,to sanction/penalize,6 - Specialized/Nuanced
+satisfacer,to satisfy,6 - Specialized/Nuanced
+simular,to simulate/pretend,6 - Specialized/Nuanced
+soltar,to release/let go,6 - Specialized/Nuanced
+sospechar,to suspect,6 - Specialized/Nuanced
+suavizar,to soften/smooth,6 - Specialized/Nuanced
+tambalear,to stagger/wobble,6 - Specialized/Nuanced
+acudir,to go/come/turn to,6 - Specialized/Nuanced
+encargar,to order/entrust,6 - Specialized/Nuanced
+escalar,to climb/scale,6 - Specialized/Nuanced
+predecir,to predict,6 - Specialized/Nuanced
+programar,to program/schedule,6 - Specialized/Nuanced
+reagrupar,to regroup,6 - Specialized/Nuanced
+remitir,to send/refer,6 - Specialized/Nuanced
+ubicar,to locate/place,6 - Specialized/Nuanced
+yacer,to lie (be lying down),6 - Specialized/Nuanced
+necesitarse,to be needed,6 - Specialized/Nuancedxf

@@ -1,0 +1,151 @@
+rank,phrase,translation,category,tier
+1,Hola,Hello,Greetings,1 - Survival Phrases
+2,Buenos días,Good morning,Greetings,1 - Survival Phrases
+3,Buenas tardes,Good afternoon,Greetings,1 - Survival Phrases
+4,Buenas noches,Good evening/night,Greetings,1 - Survival Phrases
+5,Adiós,Goodbye,Greetings,1 - Survival Phrases
+6,Hasta luego,See you later,Greetings,1 - Survival Phrases
+7,Hasta mañana,See you tomorrow,Greetings,1 - Survival Phrases
+8,Chao,Bye (informal),Greetings,1 - Survival Phrases
+9,¿Cómo estás?,How are you? (informal),Greetings,1 - Survival Phrases
+10,¿Cómo está usted?,How are you? (formal),Greetings,1 - Survival Phrases
+11,Muy bien gracias,Very well thank you,Greetings,1 - Survival Phrases
+12,Bien y tú,Fine and you?,Greetings,1 - Survival Phrases
+13,¿Cómo te llamas?,What's your name? (informal),Greetings,1 - Survival Phrases
+14,Me llamo...,My name is...,Greetings,1 - Survival Phrases
+15,Mucho gusto,Nice to meet you,Greetings,1 - Survival Phrases
+16,El gusto es mío,The pleasure is mine,Greetings,1 - Survival Phrases
+17,Por favor,Please,Essentials,1 - Survival Phrases
+18,Gracias,Thank you,Essentials,1 - Survival Phrases
+19,De nada,You're welcome,Essentials,1 - Survival Phrases
+20,Perdón,Excuse me/Sorry,Essentials,1 - Survival Phrases
+21,Lo siento,I'm sorry,Essentials,1 - Survival Phrases
+22,No hay problema,No problem,Essentials,1 - Survival Phrases
+23,Está bien,It's okay/alright,Essentials,1 - Survival Phrases
+24,De acuerdo,Agreed/Okay,Essentials,1 - Survival Phrases
+25,Claro,Of course/Sure,Essentials,1 - Survival Phrases
+26,No entiendo,I don't understand,Conversation Tools,1 - Survival Phrases
+27,¿Puede repetir?,Can you repeat?,Conversation Tools,1 - Survival Phrases
+28,¿Puede hablar más despacio?,Can you speak slower?,Conversation Tools,1 - Survival Phrases
+29,¿Qué significa...?,What does ... mean?,Conversation Tools,1 - Survival Phrases
+30,¿Cómo se dice...?,How do you say...?,Conversation Tools,1 - Survival Phrases
+31,¿Habla inglés?,Do you speak English?,Conversation Tools,1 - Survival Phrases
+32,Hablo un poco de español,I speak a little Spanish,Conversation Tools,1 - Survival Phrases
+33,No sé,I don't know,Conversation Tools,1 - Survival Phrases
+34,No recuerdo,I don't remember,Conversation Tools,1 - Survival Phrases
+35,Tengo una pregunta,I have a question,Conversation Tools,1 - Survival Phrases
+36,¿Qué hora es?,What time is it?,Practical,2 - Everyday Practical
+37,¿Cuánto cuesta?,How much does it cost?,Practical,2 - Everyday Practical
+38,¿Dónde está...?,Where is...?,Practical,2 - Everyday Practical
+39,¿Cómo llego a...?,How do I get to...?,Practical,2 - Everyday Practical
+40,A la derecha,To the right,Practical,2 - Everyday Practical
+41,A la izquierda,To the left,Practical,2 - Everyday Practical
+42,Todo recto,Straight ahead,Practical,2 - Everyday Practical
+43,¿Tiene...?,Do you have...?,Practical,2 - Everyday Practical
+44,Quisiera...,I would like...,Practical,2 - Everyday Practical
+45,Me gustaría...,I would like...,Practical,2 - Everyday Practical
+46,La cuenta por favor,The bill please,Practical,2 - Everyday Practical
+47,¿Está incluido el servicio?,Is service included?,Practical,2 - Everyday Practical
+48,Una mesa para dos,A table for two,Practical,2 - Everyday Practical
+49,¿Me recomienda...?,Do you recommend...?,Practical,2 - Everyday Practical
+50,Para llevar,To go/takeaway,Practical,2 - Everyday Practical
+51,¿Qué te pasa?,What's wrong with you?,Conversation,2 - Everyday Practical
+52,¿Qué pasó?,What happened?,Conversation,2 - Everyday Practical
+53,¿Qué hay de nuevo?,What's new?,Conversation,2 - Everyday Practical
+54,Nada en especial,Nothing special,Conversation,2 - Everyday Practical
+55,¿En serio?,Really? / Seriously?,Conversation,2 - Everyday Practical
+56,¡Qué bien!,How great! / That's great!,Conversation,2 - Everyday Practical
+57,¡Qué pena!,What a shame!,Conversation,2 - Everyday Practical
+58,¡Qué lástima!,What a pity!,Conversation,2 - Everyday Practical
+59,¡Qué suerte!,What luck! / How lucky!,Conversation,2 - Everyday Practical
+60,¡Qué horror!,How awful!,Conversation,2 - Everyday Practical
+61,Depende,It depends,Conversation,2 - Everyday Practical
+62,A veces,Sometimes,Conversation,2 - Everyday Practical
+63,De vez en cuando,From time to time,Conversation,2 - Everyday Practical
+64,Poco a poco,Little by little,Conversation,2 - Everyday Practical
+65,Más o menos,More or less,Conversation,2 - Everyday Practical
+66,Sobre todo,Above all/especially,Conversation,2 - Everyday Practical
+67,Al final,In the end/finally,Conversation,2 - Everyday Practical
+68,Al principio,At the beginning,Conversation,2 - Everyday Practical
+69,Sin embargo,However/nevertheless,Conversation,2 - Everyday Practical
+70,Por eso,That's why/therefore,Conversation,2 - Everyday Practical
+71,Tener hambre,To be hungry,Useful Expressions,3 - Idiomatic
+72,Tener sed,To be thirsty,Useful Expressions,3 - Idiomatic
+73,Tener sueño,To be sleepy,Useful Expressions,3 - Idiomatic
+74,Tener frío,To be cold,Useful Expressions,3 - Idiomatic
+75,Tener calor,To be hot,Useful Expressions,3 - Idiomatic
+76,Tener miedo,To be afraid,Useful Expressions,3 - Idiomatic
+77,Tener razón,To be right,Useful Expressions,3 - Idiomatic
+78,No tener razón,To be wrong,Useful Expressions,3 - Idiomatic
+79,Tener prisa,To be in a hurry,Useful Expressions,3 - Idiomatic
+80,Tener suerte,To be lucky,Useful Expressions,3 - Idiomatic
+81,Tener ganas de...,To feel like (doing something),Useful Expressions,3 - Idiomatic
+82,Hacer falta,To need/be necessary,Useful Expressions,3 - Idiomatic
+83,Hacer caso,To pay attention/obey,Useful Expressions,3 - Idiomatic
+84,Hacer una pregunta,To ask a question,Useful Expressions,3 - Idiomatic
+85,Darse cuenta de,To realize,Useful Expressions,3 - Idiomatic
+86,Ponerse + adj,To become (emotion),Useful Expressions,3 - Idiomatic
+87,Volverse + adj,To become (change),Useful Expressions,3 - Idiomatic
+88,Acabar de + inf,To have just done something,Useful Expressions,3 - Idiomatic
+89,Ir a + inf,To be going to (do something),Useful Expressions,3 - Idiomatic
+90,Tener que + inf,To have to (do something),Useful Expressions,3 - Idiomatic
+91,Hay que + inf,One must (do something),Useful Expressions,3 - Idiomatic
+92,Poder + inf,To be able to (do something),Useful Expressions,3 - Idiomatic
+93,Querer + inf,To want to (do something),Useful Expressions,3 - Idiomatic
+94,Dejar de + inf,To stop (doing something),Useful Expressions,3 - Idiomatic
+95,Seguir + gerund,To keep (doing something),Useful Expressions,3 - Idiomatic
+96,¿Cuántos años tienes?,How old are you?,Personal,3 - Idiomatic
+97,Tengo ... años,I am ... years old,Personal,3 - Idiomatic
+98,¿De dónde eres?,Where are you from?,Personal,3 - Idiomatic
+99,Soy de...,I'm from...,Personal,3 - Idiomatic
+100,¿A qué te dedicas?,What do you do for work?,Personal,3 - Idiomatic
+101,Trabajo como...,I work as...,Personal,3 - Idiomatic
+102,Estoy casado/a,I'm married,Personal,3 - Idiomatic
+103,Estoy soltero/a,I'm single,Personal,3 - Idiomatic
+104,Tengo ... hijos,I have ... children,Personal,3 - Idiomatic
+105,Me gusta...,I like...,Personal,3 - Idiomatic
+106,No me gusta...,I don't like...,Personal,3 - Idiomatic
+107,Me encanta...,I love...,Personal,3 - Idiomatic
+108,Me interesa...,I'm interested in...,Personal,3 - Idiomatic
+109,Me parece...,It seems to me...,Personal,3 - Idiomatic
+110,Creo que...,I think that...,Personal,3 - Idiomatic
+111,Me alegra que...,I'm glad that...,Advanced Expressions,4 - Advanced
+112,Es una lástima que...,It's a shame that...,Advanced Expressions,4 - Advanced
+113,Ojalá...,Hopefully.../I wish...,Advanced Expressions,4 - Advanced
+114,A menos que...,Unless...,Advanced Expressions,4 - Advanced
+115,Aunque...,Although/even though,Advanced Expressions,4 - Advanced
+116,Sin embargo...,However...,Advanced Expressions,4 - Advanced
+117,Por otro lado...,On the other hand...,Advanced Expressions,4 - Advanced
+118,En cambio...,On the other hand/instead,Advanced Expressions,4 - Advanced
+119,De hecho...,In fact...,Advanced Expressions,4 - Advanced
+120,En realidad...,Actually/in reality,Advanced Expressions,4 - Advanced
+121,Al contrario,On the contrary,Advanced Expressions,4 - Advanced
+122,Por cierto...,By the way...,Advanced Expressions,4 - Advanced
+123,A propósito...,By the way/on purpose,Advanced Expressions,4 - Advanced
+124,En cuanto a...,As for.../regarding...,Advanced Expressions,4 - Advanced
+125,Con respecto a...,With respect to...,Advanced Expressions,4 - Advanced
+126,Lo que me gusta es...,What I like is...,Advanced Expressions,4 - Advanced
+127,Lo que pasa es que...,The thing is that...,Advanced Expressions,4 - Advanced
+128,Resulta que...,It turns out that...,Advanced Expressions,4 - Advanced
+129,Se me olvidó,I forgot,Advanced Expressions,4 - Advanced
+130,¿Me puedes ayudar?,Can you help me?,Advanced Expressions,4 - Advanced
+131,¿Qué te parece?,What do you think?,Advanced Expressions,4 - Advanced
+132,¿Qué opinas?,What's your opinion?,Advanced Expressions,4 - Advanced
+133,En mi opinión...,In my opinion...,Advanced Expressions,4 - Advanced
+134,Desde mi punto de vista...,From my point of view...,Advanced Expressions,4 - Advanced
+135,Estoy de acuerdo,I agree,Advanced Expressions,4 - Advanced
+136,No estoy de acuerdo,I disagree,Advanced Expressions,4 - Advanced
+137,Tienes razón,You're right,Advanced Expressions,4 - Advanced
+138,No tienes razón,You're wrong,Advanced Expressions,4 - Advanced
+139,¡Ánimo!,Cheer up! / You can do it!,Encouragement,4 - Advanced
+140,¡Buena suerte!,Good luck!,Encouragement,4 - Advanced
+141,¡Buen provecho!,Enjoy your meal!,Encouragement,4 - Advanced
+142,¡Salud!,Cheers! / Bless you!,Encouragement,4 - Advanced
+143,¡Felicitaciones!,Congratulations!,Encouragement,4 - Advanced
+144,¡Que te mejores!,Get well soon!,Encouragement,4 - Advanced
+145,¡Qué rico!,How delicious!,Encouragement,4 - Advanced
+146,¡No me digas!,You don't say! / No way!,Encouragement,4 - Advanced
+147,¡Cómo no!,Of course! / Why not!,Encouragement,4 - Advanced
+148,¿A qué hora...?,At what time...?,Scheduling,4 - Advanced
+149,¿Cuándo nos vemos?,When shall we meet?,Scheduling,4 - Advanced
+150,Quedamos a las...,We'll meet at...,Scheduling,4 - Advanced
