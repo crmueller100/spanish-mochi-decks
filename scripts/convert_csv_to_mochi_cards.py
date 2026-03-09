@@ -11,11 +11,13 @@ def parse_csv(input_path):
     cards = []
 
     with open(input_path, "r", encoding="utf-8") as infile:
-        reader = csv.DictReader(infile)
-        for line_number, row in enumerate(reader, start=2):  # header is line 1
-            front = row.get("phrase", "").strip()
-            back = row.get("translation", "").strip()
-
+        reader = csv.reader(infile)  # NOT DictReader
+        for line_number, row in enumerate(reader, start=1):
+            if len(row) < 2:
+                print(f"Skipping line {line_number}: not enough columns")
+                continue
+            front = row[0].strip()
+            back = row[1].strip()
             if not front or not back:
                 print(f"Skipping line {line_number}: missing phrase or translation")
                 continue

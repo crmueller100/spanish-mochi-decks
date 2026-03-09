@@ -1974,10 +1974,6 @@ to freeze
 ---
 congelar
 @@@
-to consecrate/dedicate
----
-consagrar
-@@@
 to convince
 ---
 convencer
@@ -1990,9 +1986,9 @@ to question/challenge
 ---
 cuestionar
 @@@
-cuenta
+to realize
 ---
-to realize,darse
+darse cuenta
 @@@
 to weaken
 ---
@@ -2005,10 +2001,6 @@ depositar
 to develop/take place
 ---
 desarrollarse
-@@@
-to overflow/overwhelm
----
-desbordar
 @@@
 to fire/say goodbye
 ---
@@ -2329,18 +2321,6 @@ ubicar
 to lie (be lying down)
 ---
 yacer
-@@@
-to hear (alt spelling)
----
-oir
-@@@
-to get angry
----
-enseñarse
-@@@
-to attempt
----
-intentarse
 @@@
 to be needed
 ---

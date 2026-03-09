@@ -1,0 +1,201 @@
+adjective,translation,tier
+good,bueno/a,1 - Core Essentials
+bad,malo/a,1 - Core Essentials
+big/great,grande,1 - Core Essentials
+small/little,pequeño/a,1 - Core Essentials
+new,nuevo/a,1 - Core Essentials
+old,viejo/a,1 - Core Essentials
+same,mismo/a,1 - Core Essentials
+other/another,otro/a,1 - Core Essentials
+much/many/a lot,mucho/a,1 - Core Essentials
+little/few,poco/a,1 - Core Essentials
+all/every,todo/a,1 - Core Essentials
+first,primero/a,1 - Core Essentials
+last/latest,último/a,1 - Core Essentials
+alone/only,solo/a,1 - Core Essentials
+own/proper,propio/a,1 - Core Essentials
+long,largo/a,1 - Core Essentials
+short,corto/a,1 - Core Essentials
+tall/high,alto/a,1 - Core Essentials
+low/short,bajo/a,1 - Core Essentials
+better/best,mejor,1 - Core Essentials
+worse/worst,peor,1 - Core Essentials
+older/greater,mayor,1 - Core Essentials
+younger/lesser,menor,1 - Core Essentials
+more,más,1 - Core Essentials
+less/fewer,menos,1 - Core Essentials
+happy,feliz,1 - Core Essentials
+sad,triste,1 - Core Essentials
+tired,cansado/a,1 - Core Essentials
+sick/ill,enfermo/a,1 - Core Essentials
+busy,ocupado/a,1 - Core Essentials
+free,libre,1 - Core Essentials
+easy,fácil,1 - Core Essentials
+difficult/hard,difícil,1 - Core Essentials
+important,importante,1 - Core Essentials
+different,diferente,1 - Core Essentials
+equal/same,igual,1 - Core Essentials
+possible,posible,1 - Core Essentials
+necessary,necesario/a,1 - Core Essentials
+true/real,verdadero/a,1 - Core Essentials
+false,falso/a,1 - Core Essentials
+open,abierto/a,2 - Descriptions
+closed,cerrado/a,2 - Descriptions
+full,lleno/a,2 - Descriptions
+empty,vacío/a,2 - Descriptions
+clean,limpio/a,2 - Descriptions
+dirty,sucio/a,2 - Descriptions
+hot,caliente,2 - Descriptions
+cold,frío/a,2 - Descriptions
+fast/quick,rápido/a,2 - Descriptions
+slow,lento/a,2 - Descriptions
+strong,fuerte,2 - Descriptions
+weak,débil,2 - Descriptions
+rich/delicious,rico/a,2 - Descriptions
+poor,pobre,2 - Descriptions
+young,joven,2 - Descriptions
+elderly,anciano/a,2 - Descriptions
+pretty/nice,bonito/a,2 - Descriptions
+ugly,feo/a,2 - Descriptions
+handsome/attractive,guapo/a,2 - Descriptions
+fat,gordo/a,2 - Descriptions
+thin/slim,delgado/a,2 - Descriptions
+near/close,cerca,2 - Descriptions
+far,lejos,2 - Descriptions
+here,aquí,2 - Descriptions
+there,allí,2 - Descriptions
+together,juntos/as,2 - Descriptions
+alone,solo/a,2 - Descriptions
+safe/sure,seguro/a,2 - Descriptions
+dangerous,peligroso/a,2 - Descriptions
+ready/clever,listo/a,2 - Descriptions
+content/happy,contento/a,3 - Emotions & Character
+angry,enojado/a,3 - Emotions & Character
+scared/frightened,asustado/a,3 - Emotions & Character
+surprised,sorprendido/a,3 - Emotions & Character
+bored/boring,aburrido/a,3 - Emotions & Character
+excited/emotional,emocionado/a,3 - Emotions & Character
+nervous,nervioso/a,3 - Emotions & Character
+calm/tranquil,tranquilo/a,3 - Emotions & Character
+worried,preocupado/a,3 - Emotions & Character
+proud,orgulloso/a,3 - Emotions & Character
+ashamed/embarrassed,avergonzado/a,3 - Emotions & Character
+jealous,celoso/a,3 - Emotions & Character
+nice/likeable,simpático/a,3 - Emotions & Character
+unpleasant,antipático/a,3 - Emotions & Character
+kind/friendly,amable,3 - Emotions & Character
+intelligent,inteligente,3 - Emotions & Character
+silly/stupid,tonto/a,3 - Emotions & Character
+funny,gracioso/a,3 - Emotions & Character
+serious,serio/a,3 - Emotions & Character
+hardworking,trabajador/a,3 - Emotions & Character
+lazy,perezoso/a,3 - Emotions & Character
+honest,honesto/a,3 - Emotions & Character
+liar/dishonest,mentiroso/a,3 - Emotions & Character
+generous,generoso/a,3 - Emotions & Character
+selfish,egoísta,3 - Emotions & Character
+patient,paciente,3 - Emotions & Character
+impatient,impaciente,3 - Emotions & Character
+curious,curioso/a,3 - Emotions & Character
+creative,creativo/a,3 - Emotions & Character
+responsible,responsable,3 - Emotions & Character
+special,especial,4 - Useful Intermediate
+normal,normal,4 - Useful Intermediate
+strange/weird,extraño/a,4 - Useful Intermediate
+rare/weird,raro/a,4 - Useful Intermediate
+popular,popular,4 - Useful Intermediate
+famous,famoso/a,4 - Useful Intermediate
+modern,moderno/a,4 - Useful Intermediate
+ancient/old,antiguo/a,4 - Useful Intermediate
+public,público/a,4 - Useful Intermediate
+private,privado/a,4 - Useful Intermediate
+natural,natural,4 - Useful Intermediate
+social,social,4 - Useful Intermediate
+political,político/a,4 - Useful Intermediate
+economic,económico/a,4 - Useful Intermediate
+cultural,cultural,4 - Useful Intermediate
+international,internacional,4 - Useful Intermediate
+national,nacional,4 - Useful Intermediate
+local,local,4 - Useful Intermediate
+personal,personal,4 - Useful Intermediate
+general,general,4 - Useful Intermediate
+total,total,4 - Useful Intermediate
+real,real,4 - Useful Intermediate
+formal,formal,4 - Useful Intermediate
+final,final,4 - Useful Intermediate
+main/principal,principal,4 - Useful Intermediate
+central,central,4 - Useful Intermediate
+simple,simple,4 - Useful Intermediate
+complex,complejo/a,4 - Useful Intermediate
+direct,directo/a,4 - Useful Intermediate
+indirect,indirecto/a,4 - Useful Intermediate
+positive,positivo/a,4 - Useful Intermediate
+negative,negativo/a,4 - Useful Intermediate
+active,activo/a,4 - Useful Intermediate
+passive,pasivo/a,4 - Useful Intermediate
+physical,físico/a,4 - Useful Intermediate
+mental,mental,4 - Useful Intermediate
+interior/inner,interior,4 - Useful Intermediate
+exterior/outer,exterior,4 - Useful Intermediate
+previous/front,anterior,4 - Useful Intermediate
+later/rear,posterior,4 - Useful Intermediate
+right (direction),derecho/a,5 - Advanced
+left,izquierdo/a,5 - Advanced
+deep/profound,profundo/a,5 - Advanced
+superficial/shallow,superficial,5 - Advanced
+wide/broad,amplio/a,5 - Advanced
+narrow,estrecho/a,5 - Advanced
+thick,grueso/a,5 - Advanced
+thin,delgado/a,5 - Advanced
+heavy,pesado/a,5 - Advanced
+light,ligero/a,5 - Advanced
+hard/tough,duro/a,5 - Advanced
+soft/smooth/gentle,suave,5 - Advanced
+sweet,dulce,5 - Advanced
+bitter,amargo/a,5 - Advanced
+salty,salado/a,5 - Advanced
+spicy,picante,5 - Advanced
+fresh/cool,fresco/a,5 - Advanced
+mature/ripe,maduro/a,5 - Advanced
+raw,crudo/a,5 - Advanced
+cooked,cocido/a,5 - Advanced
+sacred/holy,sagrado/a,5 - Advanced
+secular/lay,laico/a,5 - Advanced
+unique/only,único/a,5 - Advanced
+multiple,múltiple,5 - Advanced
+double,doble,5 - Advanced
+triple,triple,5 - Advanced
+recent,reciente,5 - Advanced
+old/ancient,antiguo/a,5 - Advanced
+future,futuro/a,5 - Advanced
+past,pasado/a,5 - Advanced
+current/present,actual,5 - Advanced
+temporary,temporal,5 - Advanced
+permanent,permanente,5 - Advanced
+urgent,urgente,5 - Advanced
+serious/severe,grave,5 - Advanced
+mild/slight,leve,5 - Advanced
+absolute,absoluto/a,5 - Advanced
+relative,relativo/a,5 - Advanced
+fair/just,justo/a,5 - Advanced
+unfair/unjust,injusto/a,5 - Advanced
+legal,legal,5 - Advanced
+illegal,ilegal,5 - Advanced
+correct,correcto/a,5 - Advanced
+incorrect,incorrecto/a,5 - Advanced
+available,disponible,5 - Advanced
+capable,capaz,5 - Advanced
+incapable,incapaz,5 - Advanced
+sufficient/enough,suficiente,5 - Advanced
+insufficient,insuficiente,5 - Advanced
+known/well-known,conocido/a,5 - Advanced
+unknown,desconocido/a,5 - Advanced
+dear/beloved,querido/a,5 - Advanced
+hated,odiado/a,5 - Advanced
+lost,perdido/a,5 - Advanced
+found,encontrado/a,5 - Advanced
+broken,roto/a,5 - Advanced
+whole/entire,entero/a,5 - Advanced
+empty,vacío/a,5 - Advanced
+full,lleno/a,5 - Advanced
+successful,exitoso/a,5 - Advanced
