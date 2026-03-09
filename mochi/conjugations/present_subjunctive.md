@@ -9,7 +9,9 @@ to speak
 | nosotros | hablemos |
 | vosotros | habléis |
 | ellos | hablen |
+
 @@@
+
 comer
 ---
 to eat
@@ -21,7 +23,9 @@ to eat
 | nosotros | comamos |
 | vosotros | comáis |
 | ellos | coman |
+
 @@@
+
 vivir
 ---
 to live
@@ -33,7 +37,9 @@ to live
 | nosotros | vivamos |
 | vosotros | viváis |
 | ellos | vivan |
+
 @@@
+
 pensar
 ---
 to think
@@ -45,7 +51,9 @@ to think
 | nosotros | pensemos |
 | vosotros | penséis |
 | ellos | piensen |
+
 @@@
+
 dormir
 ---
 to sleep
@@ -57,7 +65,9 @@ to sleep
 | nosotros | durmamos |
 | vosotros | durmáis |
 | ellos | duerman |
+
 @@@
+
 pedir
 ---
 to ask for
@@ -69,7 +79,9 @@ to ask for
 | nosotros | pidamos |
 | vosotros | pidáis |
 | ellos | pidan |
+
 @@@
+
 tener
 ---
 to have
@@ -81,7 +93,9 @@ to have
 | nosotros | tengamos |
 | vosotros | tengáis |
 | ellos | tengan |
+
 @@@
+
 hacer
 ---
 to do, to make
@@ -93,7 +107,9 @@ to do, to make
 | nosotros | hagamos |
 | vosotros | hagáis |
 | ellos | hagan |
+
 @@@
+
 ir
 ---
 to go
@@ -105,7 +121,9 @@ to go
 | nosotros | vayamos |
 | vosotros | vayáis |
 | ellos | vayan |
+
 @@@
+
 ser
 ---
 to be

@@ -9,7 +9,9 @@ to speak
 | nosotros | hablábamos |
 | vosotros | hablabais |
 | ellos | hablaban |
+
 @@@
+
 comer
 ---
 to eat
@@ -21,7 +23,9 @@ to eat
 | nosotros | comíamos |
 | vosotros | comíais |
 | ellos | comían |
+
 @@@
+
 vivir
 ---
 to live
@@ -44,7 +48,9 @@ to be
 | nosotros | éramos |
 | vosotros | erais |
 | ellos | eran |
+
 @@@
+
 ir
 ---
 to go
@@ -56,7 +62,9 @@ to go
 | nosotros | íbamos |
 | vosotros | ibais |
 | ellos | iban |
+
 @@@
+
 ver
 ---
 to see

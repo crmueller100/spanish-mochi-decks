@@ -9,7 +9,9 @@ to walk
 | nosotros | anduvimos |
 | vosotros | anduvisteis |
 | ellos | anduvieron |
+
 @@@
+
 caber
 ---
 to fit
@@ -21,7 +23,9 @@ to fit
 | nosotros | cupimos |
 | vosotros | cupisteis |
 | ellos | cupieron |
+
 @@@
+
 comer
 ---
 to eat
@@ -33,7 +37,9 @@ to eat
 | nosotros | comimos |
 | vosotros | comisteis |
 | ellos | comieron |
+
 @@@
+
 compartir
 ---
 to share
@@ -45,7 +51,9 @@ to share
 | nosotros | compartimos |
 | vosotros | compartisteis |
 | ellos | compartieron |
+
 @@@
+
 dar
 ---
 to give
@@ -57,7 +65,9 @@ to give
 | nosotros | dimos |
 | vosotros | disteis |
 | ellos | dieron |
+
 @@@
+
 decir
 ---
 to say
@@ -69,7 +79,9 @@ to say
 | nosotros | dijimos |
 | vosotros | dijisteis |
 | ellos | dijeron |
+
 @@@
+
 descubrir
 ---
 to discover
@@ -81,7 +93,9 @@ to discover
 | nosotros | descubrimos |
 | vosotros | descubristeis |
 | ellos | descubrieron |
+
 @@@
+
 entender
 ---
 to understand
@@ -93,7 +107,9 @@ to understand
 | nosotros | entendimos |
 | vosotros | entendisteis |
 | ellos | entendieron |
+
 @@@
+
 estar
 ---
 to be
@@ -105,7 +121,9 @@ to be
 | nosotros | estuvimos |
 | vosotros | estuvisteis |
 | ellos | estuvieron |
+
 @@@
+
 hablar
 ---
 to talk/speak
@@ -117,7 +135,9 @@ to talk/speak
 | nosotros | hablamos |
 | vosotros | hablasteis |
 | ellos | hablaron |
+
 @@@
+
 hacer
 ---
 to do, to make
@@ -129,7 +149,9 @@ to do, to make
 | nosotros | hicimos |
 | vosotros | hicisteis |
 | ellos | hicieron |
+
 @@@
+
 ir / ser
 ---
 to go / to be
@@ -141,7 +163,9 @@ to go / to be
 | nosotros | fuimos |
 | vosotros | fuisteis |
 | ellos | fueron |
+
 @@@
+
 poder
 ---
 to be able, can, may
@@ -153,7 +177,9 @@ to be able, can, may
 | nosotros | pudimos |
 | vosotros | pudisteis |
 | ellos | pudieron |
+
 @@@
+
 poner
 ---
 to put
@@ -165,9 +191,13 @@ to put
 | nosotros | pusimos |
 | vosotros | pusisteis |
 | ellos | pusieron |
-@@@
 
 @@@
+
+
+
+@@@
+
 producir
 ---
 to produce
@@ -179,7 +209,9 @@ to produce
 | nosotros | produjimos |
 | vosotros | produjisteis |
 | ellos | produjeron |
+
 @@@
+
 querer
 ---
 to want
@@ -191,7 +223,9 @@ to want
 | nosotros | quisimos |
 | vosotros | quisisteis |
 | ellos | quisieron |
+
 @@@
+
 saber
 ---
 to know
@@ -203,7 +237,9 @@ to know
 | nosotros | supimos |
 | vosotros | supisteis |
 | ellos | supieron |
+
 @@@
+
 salir
 ---
 to leave
@@ -215,7 +251,9 @@ to leave
 | nosotros | salimos |
 | vosotros | salisteis |
 | ellos | salieron |
+
 @@@
+
 tener
 ---
 to have
@@ -227,7 +265,9 @@ to have
 | nosotros | tuvimos |
 | vosotros | tuvisteis |
 | ellos | tuvieron |
+
 @@@
+
 traer
 ---
 to bring
@@ -239,7 +279,9 @@ to bring
 | nosotros | trajimos |
 | vosotros | trajisteis |
 | ellos | trajeron |
+
 @@@
+
 venir
 ---
 to come
@@ -251,7 +293,9 @@ to come
 | nosotros | vinimos |
 | vosotros | vinisteis |
 | ellos | vinieron |
+
 @@@
+
 ver
 ---
 to see
