@@ -1,0 +1,108 @@
+yo,I,Personal - Subject,,1 - Essential
+tú,you (informal),Personal - Subject,,1 - Essential
+él,he,Personal - Subject,,1 - Essential
+ella,she,Personal - Subject,,1 - Essential
+usted,you (formal singular),Personal - Subject,abbreviated as Ud.,1 - Essential
+nosotros,we (m/mixed),Personal - Subject,,1 - Essential
+nosotras,we (f),Personal - Subject,,1 - Essential
+ellos,they (m/mixed),Personal - Subject,,1 - Essential
+ellas,they (f),Personal - Subject,,1 - Essential
+ustedes,you all (formal/Latin Am. informal),Personal - Subject,abbreviated as Uds.,1 - Essential
+vosotros,you all (informal Spain),Personal - Subject,Spain only,1 - Essential
+vosotras,you all (informal Spain f),Personal - Subject,Spain only,1 - Essential
+me,me/myself,Personal - Direct Object,,1 - Essential
+te,you/yourself (informal),Personal - Direct Object,,1 - Essential
+lo,him/it/you (m formal),Personal - Direct Object,,1 - Essential
+la,her/it/you (f formal),Personal - Direct Object,,1 - Essential
+nos,us/ourselves,Personal - Direct Object,,1 - Essential
+los,them/you all (m),Personal - Direct Object,,1 - Essential
+las,them/you all (f),Personal - Direct Object,,1 - Essential
+os,you all/yourselves (Spain),Personal - Direct Object,Spain only,1 - Essential
+me,to me,Personal - Indirect Object,same form as direct object,1 - Essential
+te,to you (informal),Personal - Indirect Object,same form as direct object,1 - Essential
+le,to him/her/you (formal),Personal - Indirect Object,,1 - Essential
+nos,to us,Personal - Indirect Object,same form as direct object,1 - Essential
+les,to them/you all,Personal - Indirect Object,,1 - Essential
+os,to you all (Spain),Personal - Indirect Object,Spain only,1 - Essential
+me,myself,Reflexive,,1 - Essential
+te,yourself (informal),Reflexive,,1 - Essential
+se,himself/herself/yourself/themselves,Reflexive,also used for passive voice,1 - Essential
+nos,ourselves,Reflexive,,1 - Essential
+os,yourselves (Spain),Reflexive,Spain only,1 - Essential
+algo,something/anything,Indefinite,,1 - Essential
+nada,nothing/anything (negative),Indefinite,,1 - Essential
+alguien,someone/anyone,Indefinite,,1 - Essential
+nadie,nobody/no one,Indefinite,,1 - Essential
+alguno/a,some/any (one),Indefinite,,1 - Essential
+ninguno/a,none/no one,Indefinite,,1 - Essential
+algunos/as,some (plural),Indefinite,,1 - Essential
+ningunos/as,none (plural),Indefinite,rare in plural,1 - Essential
+todo,everything,Indefinite,,1 - Essential
+todos/as,everyone/all,Indefinite,,1 - Essential
+otro/a,another/other one,Indefinite,,1 - Essential
+otros/as,others,Indefinite,,1 - Essential
+mucho/a,much/a lot,Indefinite,,1 - Essential
+muchos/as,many,Indefinite,,1 - Essential
+poco/a,little/not much,Indefinite,,1 - Essential
+pocos/as,few,Indefinite,,1 - Essential
+mismo/a,same one/myself etc.,Indefinite,used for emphasis: yo mismo,1 - Essential
+uno/a,one/someone,Indefinite,,1 - Essential
+este/a,this one,Demonstrative,,1 - Essential
+ese/a,that one (nearby),Demonstrative,,1 - Essential
+aquel/aquella,that one (far away),Demonstrative,,1 - Essential
+estos/as,these,Demonstrative,,1 - Essential
+esos/as,those (nearby),Demonstrative,,1 - Essential
+aquellos/as,those (far away),Demonstrative,,1 - Essential
+esto,this (neuter),Demonstrative,refers to ideas/unknown things,1 - Essential
+eso,that (neuter),Demonstrative,refers to ideas/unknown things,1 - Essential
+aquello,that (neuter far),Demonstrative,refers to ideas/unknown things,1 - Essential
+mi/mis,my,Possessive - Unstressed,used before noun: mi casa,1 - Essential
+tu/tus,your (informal),Possessive - Unstressed,used before noun,1 - Essential
+su/sus,his/her/your(formal)/their,Possessive - Unstressed,used before noun,1 - Essential
+nuestro/a,our,Possessive - Unstressed,used before noun,1 - Essential
+vuestro/a,your (Spain plural),Possessive - Unstressed,Spain only; used before noun,1 - Essential
+mío/a,mine,Possessive - Stressed,used after noun or alone: es mío,2 - Common
+tuyo/a,yours (informal),Possessive - Stressed,used after noun or alone,2 - Common
+suyo/a,his/hers/yours/theirs,Possessive - Stressed,used after noun or alone,2 - Common
+nuestro/a,ours,Possessive - Stressed,used after noun or alone,2 - Common
+vuestro/a,yours (Spain plural),Possessive - Stressed,Spain only,2 - Common
+míos/as,mine (plural),Possessive - Stressed,,2 - Common
+tuyos/as,yours (plural),Possessive - Stressed,,2 - Common
+suyos/as,his/hers/theirs (plural),Possessive - Stressed,,2 - Common
+que,that/which/who,Relative,most common relative pronoun,2 - Common
+quien,who/whom (singular),Relative,refers to people only,2 - Common
+quienes,who/whom (plural),Relative,refers to people only,2 - Common
+donde,where,Relative,used as relative: el lugar donde...,2 - Common
+cuando,when,Relative,used as relative: el día cuando...,2 - Common
+como,how/as,Relative,used as relative: la manera como...,2 - Common
+cual,which (singular),Relative,el cual/la cual — formal,2 - Common
+cuales,which (plural),Relative,los cuales/las cuales — formal,2 - Common
+cuyo/a,whose,Relative,agrees with thing possessed not owner,2 - Common
+cuyos/as,whose (plural),Relative,,2 - Common
+cualquiera,anyone/whichever/whatever,Indefinite,,2 - Common
+cualesquiera,any (plural),Indefinite,rare,2 - Common
+cada uno/a,each one,Indefinite,,2 - Common
+ambos/as,both,Indefinite,,2 - Common
+bastante,enough/quite a lot,Indefinite,,2 - Common
+demasiado/a,too much,Indefinite,,2 - Common
+varios/as,several,Indefinite,,2 - Common
+demás,the rest/the others,Indefinite,los demás — the others,2 - Common
+tal,such (a)/so,Indefinite,tal cosa — such a thing,2 - Common
+tales,such (plural),Indefinite,,2 - Common
+quienquiera,whoever,Indefinite,,3 - Less Common
+dondequiera,wherever,Indefinite,,3 - Less Common
+comoquiera,however/in whatever way,Indefinite,,3 - Less Common
+lo que,what/that which,Relative - Neuter,lo que quiero — what I want,2 - Common
+lo cual,which (neuter),Relative - Neuter,refers back to whole idea,2 - Common
+todo lo que,everything that/all that,Relative - Neuter,,2 - Common
+algo que,something that,Relative - Neuter,,2 - Common
+nada que,nothing to/that,Relative - Neuter,,2 - Common
+alguien que,someone who,Relative - Neuter,,2 - Common
+nadie que,no one who,Relative - Neuter,,2 - Common
+conmigo,with me,Prepositional,special form of con + yo,2 - Common
+contigo,with you (informal),Prepositional,special form of con + tú,2 - Common
+consigo,with himself/herself/themselves,Prepositional,reflexive form,2 - Common
+mí,me (after preposition),Prepositional,para mí — for me,2 - Common
+ti,you (after preposition),Prepositional,para ti — for you,2 - Common
+sí,himself/herself/themselves (reflexive),Prepositional,vive para sí — lives for himself,3 - Less Common
+le → se,to him/her (before lo/la),Indirect Object Special,le lo → se lo,2 - Common
