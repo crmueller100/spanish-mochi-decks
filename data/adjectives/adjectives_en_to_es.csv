@@ -64,7 +64,6 @@ far,lejos,2 - Descriptions
 here,aquí,2 - Descriptions
 there,allí,2 - Descriptions
 together,juntos/as,2 - Descriptions
-alone,solo/a,2 - Descriptions
 safe/sure,seguro/a,2 - Descriptions
 dangerous,peligroso/a,2 - Descriptions
 ready/clever,listo/a,2 - Descriptions
@@ -145,7 +144,6 @@ superficial/shallow,superficial,5 - Advanced
 wide/broad,amplio/a,5 - Advanced
 narrow,estrecho/a,5 - Advanced
 thick,grueso/a,5 - Advanced
-thin,delgado/a,5 - Advanced
 heavy,pesado/a,5 - Advanced
 light,ligero/a,5 - Advanced
 hard/tough,duro/a,5 - Advanced
@@ -165,7 +163,6 @@ multiple,múltiple,5 - Advanced
 double,doble,5 - Advanced
 triple,triple,5 - Advanced
 recent,reciente,5 - Advanced
-old/ancient,antiguo/a,5 - Advanced
 future,futuro/a,5 - Advanced
 past,pasado/a,5 - Advanced
 current/present,actual,5 - Advanced
@@ -195,6 +192,4 @@ lost,perdido/a,5 - Advanced
 found,encontrado/a,5 - Advanced
 broken,roto/a,5 - Advanced
 whole/entire,entero/a,5 - Advanced
-empty,vacío/a,5 - Advanced
-full,lleno/a,5 - Advanced
 successful,exitoso/a,5 - Advanced
