@@ -1,8 +1,8 @@
 import csv
 from pathlib import Path
 
-INPUT_FILE = Path("data/phrases/phrases_es_to_en.csv")
-OUTPUT_FILE = Path("data/phrases/phrases_en_to_es.csv")
+INPUT_FILE = Path("claude_generated_data/phrases/phrases_es_to_en.csv")
+OUTPUT_FILE = Path("claude_generated_data/phrases/phrases_en_to_es.csv")
 
 with open(INPUT_FILE, newline='', encoding="utf-8") as infile, \
      open(OUTPUT_FILE, 'w', newline='', encoding="utf-8") as outfile:
