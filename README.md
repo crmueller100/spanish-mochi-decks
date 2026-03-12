@@ -16,7 +16,15 @@ for csv in claude_generated_data/*/*.csv; do
 done
 ```
 
+### Scripts
+extract_phrases.py
+- Extracts frequent Spanish 2- and 3-word phrases from the corpus and outputs them as candidate expressions for vocabulary study.
+
 _Conjugations are currently not generated with this script._
 
 ### To import into mochi
 Files within the `mochi/` folder can be imported into the [Mochi](https://mochi.cards/) app. Simply select "Markdown" and choose `@@@` for the delimiter. This will import each item as its own card
+
+# Attribution
+This project uses example sentences from the Tatoeba Project (https://tatoeba.org).
+Sentences are licensed under Creative Commons Attribution 2.0 FR.
