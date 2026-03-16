@@ -2,5 +2,5 @@
 .venv/
 
 # Files in this folder are too large to commit
-# E.g. Wikipedia dumps,
-corpus/
+sources/tatoeba/
+sources/wikipedia/
