@@ -1,0 +1,109 @@
+front,back,pos,claude_classification
+I,yo,PRON,1 - Essential
+you (informal),tú,PRON,1 - Essential
+he,él,PRON,1 - Essential
+she,ella,PRON,1 - Essential
+you (formal singular),usted,PRON,1 - Essential
+we (m/mixed),nosotros,PRON,1 - Essential
+we (f),nosotras,PRON,1 - Essential
+they (m/mixed),ellos,PRON,1 - Essential
+they (f),ellas,PRON,1 - Essential
+you all (formal/Latin Am. informal),ustedes,PRON,1 - Essential
+you all (informal Spain),vosotros,PRON,1 - Essential
+you all (informal Spain f),vosotras,PRON,1 - Essential
+me/myself,me,PRON,1 - Essential
+you/yourself (informal),te,PRON,1 - Essential
+him/it/you (m formal),lo,PRON,1 - Essential
+her/it/you (f formal),la,PRON,1 - Essential
+us/ourselves,nos,PRON,1 - Essential
+them/you all (m),los,PRON,1 - Essential
+them/you all (f),las,PRON,1 - Essential
+you all/yourselves (Spain),os,PRON,1 - Essential
+to me,me,PRON,1 - Essential
+to you (informal),te,PRON,1 - Essential
+to him/her/you (formal),le,PRON,1 - Essential
+to us,nos,PRON,1 - Essential
+to them/you all,les,PRON,1 - Essential
+to you all (Spain),os,PRON,1 - Essential
+myself,me,PRON,1 - Essential
+yourself (informal),te,PRON,1 - Essential
+himself/herself/yourself/themselves,se,PRON,1 - Essential
+ourselves,nos,PRON,1 - Essential
+yourselves (Spain),os,PRON,1 - Essential
+something/anything,algo,PRON,1 - Essential
+nothing/anything (negative),nada,PRON,1 - Essential
+someone/anyone,alguien,PRON,1 - Essential
+nobody/no one,nadie,PRON,1 - Essential
+some/any (one),alguno/a,PRON,1 - Essential
+none/no one,ninguno/a,PRON,1 - Essential
+some (plural),algunos/as,PRON,1 - Essential
+none (plural),ningunos/as,PRON,1 - Essential
+everything,todo,PRON,1 - Essential
+everyone/all,todos/as,PRON,1 - Essential
+another/other one,otro/a,PRON,1 - Essential
+others,otros/as,PRON,1 - Essential
+much/a lot,mucho/a,PRON,1 - Essential
+many,muchos/as,PRON,1 - Essential
+little/not much,poco/a,PRON,1 - Essential
+few,pocos/as,PRON,1 - Essential
+same one/myself etc.,mismo/a,PRON,1 - Essential
+one/someone,uno/a,PRON,1 - Essential
+this one,este/a,PRON,1 - Essential
+that one (nearby),ese/a,PRON,1 - Essential
+that one (far away),aquel/aquella,PRON,1 - Essential
+these,estos/as,PRON,1 - Essential
+those (nearby),esos/as,PRON,1 - Essential
+those (far away),aquellos/as,PRON,1 - Essential
+this (neuter),esto,PRON,1 - Essential
+that (neuter),eso,PRON,1 - Essential
+that (neuter far),aquello,PRON,1 - Essential
+my,mi/mis,PRON,1 - Essential
+your (informal),tu/tus,PRON,1 - Essential
+his/her/your(formal)/their,su/sus,PRON,1 - Essential
+our,nuestro/a,PRON,1 - Essential
+your (Spain plural),vuestro/a,PRON,1 - Essential
+mine,mío/a,PRON,2 - Common
+yours (informal),tuyo/a,PRON,2 - Common
+his/hers/yours/theirs,suyo/a,PRON,2 - Common
+ours,nuestro/a,PRON,2 - Common
+yours (Spain plural),vuestro/a,PRON,2 - Common
+mine (plural),míos/as,PRON,2 - Common
+yours (plural),tuyos/as,PRON,2 - Common
+his/hers/theirs (plural),suyos/as,PRON,2 - Common
+that/which/who,que,PRON,2 - Common
+who/whom (singular),quien,PRON,2 - Common
+who/whom (plural),quienes,PRON,2 - Common
+where,donde,PRON,2 - Common
+when,cuando,PRON,2 - Common
+how/as,como,PRON,2 - Common
+which (singular),cual,PRON,2 - Common
+which (plural),cuales,PRON,2 - Common
+whose,cuyo/a,PRON,2 - Common
+whose (plural),cuyos/as,PRON,2 - Common
+anyone/whichever/whatever,cualquiera,PRON,2 - Common
+any (plural),cualesquiera,PRON,2 - Common
+each one,cada uno/a,PRON,2 - Common
+both,ambos/as,PRON,2 - Common
+enough/quite a lot,bastante,PRON,2 - Common
+too much,demasiado/a,PRON,2 - Common
+several,varios/as,PRON,2 - Common
+the rest/the others,demás,PRON,2 - Common
+such (a)/so,tal,PRON,2 - Common
+such (plural),tales,PRON,2 - Common
+whoever,quienquiera,PRON,3 - Less Common
+wherever,dondequiera,PRON,3 - Less Common
+however/in whatever way,comoquiera,PRON,3 - Less Common
+what/that which,lo que,PRON,2 - Common
+which (neuter),lo cual,PRON,2 - Common
+everything that/all that,todo lo que,PRON,2 - Common
+something that,algo que,PRON,2 - Common
+nothing to/that,nada que,PRON,2 - Common
+someone who,alguien que,PRON,2 - Common
+no one who,nadie que,PRON,2 - Common
+with me,conmigo,PRON,2 - Common
+with you (informal),contigo,PRON,2 - Common
+with himself/herself/themselves,consigo,PRON,2 - Common
+me (after preposition),mí,PRON,2 - Common
+you (after preposition),ti,PRON,2 - Common
+himself/herself/themselves (reflexive),sí,PRON,3 - Less Common
+to him/her (before lo/la),le → se,PRON,2 - Common

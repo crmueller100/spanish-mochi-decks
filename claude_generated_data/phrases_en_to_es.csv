@@ -1,0 +1,151 @@
+front,back,pos,claude_classification
+Hello,Hola,PHRASE,1 - Survival Phrases
+Good morning,Buenos días,PHRASE,1 - Survival Phrases
+Good afternoon,Buenas tardes,PHRASE,1 - Survival Phrases
+Good evening/night,Buenas noches,PHRASE,1 - Survival Phrases
+Goodbye,Adiós,PHRASE,1 - Survival Phrases
+See you later,Hasta luego,PHRASE,1 - Survival Phrases
+See you tomorrow,Hasta mañana,PHRASE,1 - Survival Phrases
+Bye (informal),Chao,PHRASE,1 - Survival Phrases
+How are you? (informal),¿Cómo estás?,PHRASE,1 - Survival Phrases
+How are you? (formal),¿Cómo está usted?,PHRASE,1 - Survival Phrases
+Very well thank you,Muy bien gracias,PHRASE,1 - Survival Phrases
+Fine and you?,Bien y tú,PHRASE,1 - Survival Phrases
+What's your name? (informal),¿Cómo te llamas?,PHRASE,1 - Survival Phrases
+My name is...,Me llamo...,PHRASE,1 - Survival Phrases
+Nice to meet you,Mucho gusto,PHRASE,1 - Survival Phrases
+The pleasure is mine,El gusto es mío,PHRASE,1 - Survival Phrases
+Please,Por favor,PHRASE,1 - Survival Phrases
+Thank you,Gracias,PHRASE,1 - Survival Phrases
+You're welcome,De nada,PHRASE,1 - Survival Phrases
+Excuse me/Sorry,Perdón,PHRASE,1 - Survival Phrases
+I'm sorry,Lo siento,PHRASE,1 - Survival Phrases
+No problem,No hay problema,PHRASE,1 - Survival Phrases
+It's okay/alright,Está bien,PHRASE,1 - Survival Phrases
+Agreed/Okay,De acuerdo,PHRASE,1 - Survival Phrases
+Of course/Sure,Claro,PHRASE,1 - Survival Phrases
+I don't understand,No entiendo,PHRASE,1 - Survival Phrases
+Can you repeat?,¿Puede repetir?,PHRASE,1 - Survival Phrases
+Can you speak slower?,¿Puede hablar más despacio?,PHRASE,1 - Survival Phrases
+What does ... mean?,¿Qué significa...?,PHRASE,1 - Survival Phrases
+How do you say...?,¿Cómo se dice...?,PHRASE,1 - Survival Phrases
+Do you speak English?,¿Habla inglés?,PHRASE,1 - Survival Phrases
+I speak a little Spanish,Hablo un poco de español,PHRASE,1 - Survival Phrases
+I don't know,No sé,PHRASE,1 - Survival Phrases
+I don't remember,No recuerdo,PHRASE,1 - Survival Phrases
+I have a question,Tengo una pregunta,PHRASE,1 - Survival Phrases
+What time is it?,¿Qué hora es?,PHRASE,2 - Everyday Practical
+How much does it cost?,¿Cuánto cuesta?,PHRASE,2 - Everyday Practical
+Where is...?,¿Dónde está...?,PHRASE,2 - Everyday Practical
+How do I get to...?,¿Cómo llego a...?,PHRASE,2 - Everyday Practical
+To the right,A la derecha,PHRASE,2 - Everyday Practical
+To the left,A la izquierda,PHRASE,2 - Everyday Practical
+Straight ahead,Todo recto,PHRASE,2 - Everyday Practical
+Do you have...?,¿Tiene...?,PHRASE,2 - Everyday Practical
+I would like...,Quisiera...,PHRASE,2 - Everyday Practical
+I would like...,Me gustaría...,PHRASE,2 - Everyday Practical
+The bill please,La cuenta por favor,PHRASE,2 - Everyday Practical
+Is service included?,¿Está incluido el servicio?,PHRASE,2 - Everyday Practical
+A table for two,Una mesa para dos,PHRASE,2 - Everyday Practical
+Do you recommend...?,¿Me recomienda...?,PHRASE,2 - Everyday Practical
+To go/takeaway,Para llevar,PHRASE,2 - Everyday Practical
+What's wrong with you?,¿Qué te pasa?,PHRASE,2 - Everyday Practical
+What happened?,¿Qué pasó?,PHRASE,2 - Everyday Practical
+What's new?,¿Qué hay de nuevo?,PHRASE,2 - Everyday Practical
+Nothing special,Nada en especial,PHRASE,2 - Everyday Practical
+Really? / Seriously?,¿En serio?,PHRASE,2 - Everyday Practical
+How great! / That's great!,¡Qué bien!,PHRASE,2 - Everyday Practical
+What a shame!,¡Qué pena!,PHRASE,2 - Everyday Practical
+What a pity!,¡Qué lástima!,PHRASE,2 - Everyday Practical
+What luck! / How lucky!,¡Qué suerte!,PHRASE,2 - Everyday Practical
+How awful!,¡Qué horror!,PHRASE,2 - Everyday Practical
+It depends,Depende,PHRASE,2 - Everyday Practical
+Sometimes,A veces,PHRASE,2 - Everyday Practical
+From time to time,De vez en cuando,PHRASE,2 - Everyday Practical
+Little by little,Poco a poco,PHRASE,2 - Everyday Practical
+More or less,Más o menos,PHRASE,2 - Everyday Practical
+Above all/especially,Sobre todo,PHRASE,2 - Everyday Practical
+In the end/finally,Al final,PHRASE,2 - Everyday Practical
+At the beginning,Al principio,PHRASE,2 - Everyday Practical
+However/nevertheless,Sin embargo,PHRASE,2 - Everyday Practical
+That's why/therefore,Por eso,PHRASE,2 - Everyday Practical
+To be hungry,Tener hambre,PHRASE,3 - Idiomatic
+To be thirsty,Tener sed,PHRASE,3 - Idiomatic
+To be sleepy,Tener sueño,PHRASE,3 - Idiomatic
+To be cold,Tener frío,PHRASE,3 - Idiomatic
+To be hot,Tener calor,PHRASE,3 - Idiomatic
+To be afraid,Tener miedo,PHRASE,3 - Idiomatic
+To be right,Tener razón,PHRASE,3 - Idiomatic
+To be wrong,No tener razón,PHRASE,3 - Idiomatic
+To be in a hurry,Tener prisa,PHRASE,3 - Idiomatic
+To be lucky,Tener suerte,PHRASE,3 - Idiomatic
+To feel like (doing something),Tener ganas de...,PHRASE,3 - Idiomatic
+To need/be necessary,Hacer falta,PHRASE,3 - Idiomatic
+To pay attention/obey,Hacer caso,PHRASE,3 - Idiomatic
+To ask a question,Hacer una pregunta,PHRASE,3 - Idiomatic
+To realize,Darse cuenta de,PHRASE,3 - Idiomatic
+To become (emotion),Ponerse + adj,PHRASE,3 - Idiomatic
+To become (change),Volverse + adj,PHRASE,3 - Idiomatic
+To have just done something,Acabar de + inf,PHRASE,3 - Idiomatic
+To be going to (do something),Ir a + inf,PHRASE,3 - Idiomatic
+To have to (do something),Tener que + inf,PHRASE,3 - Idiomatic
+One must (do something),Hay que + inf,PHRASE,3 - Idiomatic
+To be able to (do something),Poder + inf,PHRASE,3 - Idiomatic
+To want to (do something),Querer + inf,PHRASE,3 - Idiomatic
+To stop (doing something),Dejar de + inf,PHRASE,3 - Idiomatic
+To keep (doing something),Seguir + gerund,PHRASE,3 - Idiomatic
+How old are you?,¿Cuántos años tienes?,PHRASE,3 - Idiomatic
+I am ... years old,Tengo ... años,PHRASE,3 - Idiomatic
+Where are you from?,¿De dónde eres?,PHRASE,3 - Idiomatic
+I'm from...,Soy de...,PHRASE,3 - Idiomatic
+What do you do for work?,¿A qué te dedicas?,PHRASE,3 - Idiomatic
+I work as...,Trabajo como...,PHRASE,3 - Idiomatic
+I'm married,Estoy casado/a,PHRASE,3 - Idiomatic
+I'm single,Estoy soltero/a,PHRASE,3 - Idiomatic
+I have ... children,Tengo ... hijos,PHRASE,3 - Idiomatic
+I like...,Me gusta...,PHRASE,3 - Idiomatic
+I don't like...,No me gusta...,PHRASE,3 - Idiomatic
+I love...,Me encanta...,PHRASE,3 - Idiomatic
+I'm interested in...,Me interesa...,PHRASE,3 - Idiomatic
+It seems to me...,Me parece...,PHRASE,3 - Idiomatic
+I think that...,Creo que...,PHRASE,3 - Idiomatic
+I'm glad that...,Me alegra que...,PHRASE,4 - Advanced
+It's a shame that...,Es una lástima que...,PHRASE,4 - Advanced
+Hopefully.../I wish...,Ojalá...,PHRASE,4 - Advanced
+Unless...,A menos que...,PHRASE,4 - Advanced
+Although/even though,Aunque...,PHRASE,4 - Advanced
+However...,Sin embargo...,PHRASE,4 - Advanced
+On the other hand...,Por otro lado...,PHRASE,4 - Advanced
+On the other hand/instead,En cambio...,PHRASE,4 - Advanced
+In fact...,De hecho...,PHRASE,4 - Advanced
+Actually/in reality,En realidad...,PHRASE,4 - Advanced
+On the contrary,Al contrario,PHRASE,4 - Advanced
+By the way...,Por cierto...,PHRASE,4 - Advanced
+By the way/on purpose,A propósito...,PHRASE,4 - Advanced
+As for.../regarding...,En cuanto a...,PHRASE,4 - Advanced
+With respect to...,Con respecto a...,PHRASE,4 - Advanced
+What I like is...,Lo que me gusta es...,PHRASE,4 - Advanced
+The thing is that...,Lo que pasa es que...,PHRASE,4 - Advanced
+It turns out that...,Resulta que...,PHRASE,4 - Advanced
+I forgot,Se me olvidó,PHRASE,4 - Advanced
+Can you help me?,¿Me puedes ayudar?,PHRASE,4 - Advanced
+What do you think?,¿Qué te parece?,PHRASE,4 - Advanced
+What's your opinion?,¿Qué opinas?,PHRASE,4 - Advanced
+In my opinion...,En mi opinión...,PHRASE,4 - Advanced
+From my point of view...,Desde mi punto de vista...,PHRASE,4 - Advanced
+I agree,Estoy de acuerdo,PHRASE,4 - Advanced
+I disagree,No estoy de acuerdo,PHRASE,4 - Advanced
+You're right,Tienes razón,PHRASE,4 - Advanced
+You're wrong,No tienes razón,PHRASE,4 - Advanced
+Cheer up! / You can do it!,¡Ánimo!,PHRASE,4 - Advanced
+Good luck!,¡Buena suerte!,PHRASE,4 - Advanced
+Enjoy your meal!,¡Buen provecho!,PHRASE,4 - Advanced
+Cheers! / Bless you!,¡Salud!,PHRASE,4 - Advanced
+Congratulations!,¡Felicitaciones!,PHRASE,4 - Advanced
+Get well soon!,¡Que te mejores!,PHRASE,4 - Advanced
+How delicious!,¡Qué rico!,PHRASE,4 - Advanced
+You don't say! / No way!,¡No me digas!,PHRASE,4 - Advanced
+Of course! / Why not!,¡Cómo no!,PHRASE,4 - Advanced
+At what time...?,¿A qué hora...?,PHRASE,4 - Advanced
+When shall we meet?,¿Cuándo nos vemos?,PHRASE,4 - Advanced
+We'll meet at...,Quedamos a las...,PHRASE,4 - Advanced
