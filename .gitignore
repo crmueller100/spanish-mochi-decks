@@ -1,5 +1,6 @@
 .DS_Store
 .venv/
+__pycache__/
 
 # Files in this folder are too large to commit
 sources/tatoeba/
