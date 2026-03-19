@@ -1,3 +1,4 @@
+from pathlib import Path
 from pipelines import (
     clean_tatoeba,
     build_tatoeba_frequency,
@@ -5,11 +6,12 @@ from pipelines import (
     build_frequency_lists,
     extract_phrases,
     convert_to_mochi,
+    tatoeba_to_mochi,
     switch_columns,
-    SOURCES_LLM_DIR,
+    SOURCES_LLM_DIR
 )
 
-# "llm" or "tatoeba"
+# "llm" or "tatoeba" or "tatoeba_to_csv"
 PIPELINE = "tatoeba"
 
 if PIPELINE == "tatoeba":
@@ -27,3 +29,10 @@ elif PIPELINE == "llm":
     #     SOURCES_LLM_DIR / "phrases_es_to_en.csv",
     #     SOURCES_LLM_DIR / "phrases_en_to_es.csv",
     # )
+elif PIPELINE == "tatoeba_to_csv":
+    tatoeba_to_mochi(
+        Path("data/tatoeba_es_en_clean.csv"),
+        total_cards=200,
+        deck_size=100,
+        randomize=True,
+    )
