@@ -1,3 +1,7 @@
+front
+---
+back
+@@@
 of/from/about
 ---
 de

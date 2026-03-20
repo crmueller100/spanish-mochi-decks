@@ -1,3 +1,7 @@
+front
+---
+back
+@@@
 good
 ---
 bueno/a
@@ -154,7 +158,7 @@ true/real
 ---
 verdadero/a
 @@@
-false
+FALSE
 ---
 falso/a
 @@@
@@ -261,10 +265,6 @@ allí
 together
 ---
 juntos/as
-@@@
-alone
----
-solo/a
 @@@
 safe/sure
 ---
@@ -586,10 +586,6 @@ thick
 ---
 grueso/a
 @@@
-thin
----
-delgado/a
-@@@
 heavy
 ---
 pesado/a
@@ -665,10 +661,6 @@ triple
 recent
 ---
 reciente
-@@@
-old/ancient
----
-antiguo/a
 @@@
 future
 ---

@@ -1,3 +1,7 @@
+front
+---
+back
+@@@
 to be (permanent)
 ---
 ser
@@ -2325,3 +2329,23 @@ yacer
 to be needed
 ---
 necesitarse
+@@@
+to guess
+---
+adivinar
+@@@
+to open/to uncover
+---
+destapar
+@@@
+to overcome/to go beyond
+---
+superar
+@@@
+to promise
+---
+prometer
+@@@
+to challenge
+---
+desafiar
