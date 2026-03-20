@@ -11,13 +11,15 @@ from pipelines import (
     SOURCES_LLM_DIR
 )
 
-# "llm" or "tatoeba" or "tatoeba_to_csv"
+# "llm" or "tatoeba" or "wikipedia" or "tatoeba_to_csv"
 PIPELINE = "tatoeba"
 
 if PIPELINE == "tatoeba":
     clean_tatoeba()
     build_tatoeba_frequency()  # This job takes a long time
     split_pos_lists()
+
+elif PIPELINE == "wikipedia":
     build_frequency_lists()
     extract_phrases()
 

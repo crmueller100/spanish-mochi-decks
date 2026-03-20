@@ -4,7 +4,7 @@ from collections import Counter, defaultdict
 from tqdm import tqdm
 
 from .utils import (
-    SOURCES_TATOEBA, DATA_TATOEBA_CLEAN, DATA_TATOEBA_FREQ_POS,
+    SOURCES_TATOEBA, DATA_TATOEBA_CLEAN, DATA_TATOEBA_LEMMA_POS,
     DATA_POS_LISTS_DIR, load_spacy,
 )
 
@@ -34,7 +34,7 @@ def clean_tatoeba():
 
 
 def build_tatoeba_frequency():
-    """Lemma + POS frequency from Tatoeba sentences → data/tatoeba_frequency_pos.csv"""
+    """Lemma + POS frequency from Tatoeba sentences → data/interim/tatoeba_lemma_pos_freq.csv"""
     print(">> Building Tatoeba frequency list...")
     nlp = load_spacy()
 
@@ -49,24 +49,24 @@ def build_tatoeba_frequency():
             if token.is_alpha:
                 counter[(token.lemma_.lower(), token.pos_)] += 1
 
-    DATA_TATOEBA_FREQ_POS.parent.mkdir(parents=True, exist_ok=True)
-    with open(DATA_TATOEBA_FREQ_POS, "w", newline="", encoding="utf-8") as f:
+    DATA_TATOEBA_LEMMA_POS.parent.mkdir(parents=True, exist_ok=True)
+    with open(DATA_TATOEBA_LEMMA_POS, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(["rank", "lemma", "pos", "count"])
         for rank, ((lemma, pos), count) in enumerate(counter.most_common(), start=1):
             writer.writerow([rank, lemma, pos, count])
 
-    print(f"   Wrote {DATA_TATOEBA_FREQ_POS}")
+    print(f"   Wrote {DATA_TATOEBA_LEMMA_POS}")
 
 
 def split_pos_lists():
-    """Split tatoeba_frequency_pos.csv into per-POS CSVs → data/tatoeba_pos_lists/"""
+    """Split tatoeba_lemma_pos_freq.csv into per-POS CSVs → data/interim/tatoeba_pos_lists/"""
     print(">> Splitting POS lists...")
     LIMITS = {"VERB": 1000, "NOUN": 1000, "ADJ": 500, "ADV": 500}
     DATA_POS_LISTS_DIR.mkdir(parents=True, exist_ok=True)
 
     pos_data = defaultdict(list)
-    with open(DATA_TATOEBA_FREQ_POS, encoding="utf-8") as f:
+    with open(DATA_TATOEBA_LEMMA_POS, encoding="utf-8") as f:
         for row in csv.DictReader(f):
             if row["pos"] in LIMITS:
                 pos_data[row["pos"]].append(row)

@@ -4,7 +4,7 @@ from collections import Counter
 from tqdm import tqdm
 
 from .utils import (
-    SOURCES_WIKIPEDIA, DATA_LEMMA_POS_FREQ, DATA_TOP_PHRASES, load_spacy,
+    SOURCES_WIKIPEDIA, DATA_WIKIPEDIA_LEMMA_POS, DATA_TOP_PHRASES, load_spacy,
 )
 
 
@@ -22,18 +22,18 @@ def build_frequency_lists():
         if token.is_alpha
     )
 
-    DATA_LEMMA_POS_FREQ.parent.mkdir(parents=True, exist_ok=True)
-    with open(DATA_LEMMA_POS_FREQ, "w", newline="", encoding="utf-8") as f:
+    DATA_WIKIPEDIA_LEMMA_POS.parent.mkdir(parents=True, exist_ok=True)
+    with open(DATA_WIKIPEDIA_LEMMA_POS, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(["rank", "lemma", "pos", "count"])
         for rank, ((lemma, pos), count) in enumerate(freq.most_common(), start=1):
             writer.writerow([rank, lemma, pos, count])
 
-    print(f"   Wrote {DATA_LEMMA_POS_FREQ}")
+    print(f"   Wrote {DATA_WIKIPEDIA_LEMMA_POS}")
 
 
 def extract_phrases():
-    """Extract top bigrams/trigrams from Wikipedia corpus → data/top_phrases.csv"""
+    """Extract top bigrams/trigrams from Wikipedia corpus → data/processed/wikipedia_top_phrases.csv"""
     print(">> Extracting phrases...")
     TOP_BIGRAMS, TOP_TRIGRAMS, MIN_COUNT = 1500, 500, 3
     nlp = load_spacy()
@@ -41,11 +41,10 @@ def extract_phrases():
     text = SOURCES_WIKIPEDIA.read_text(encoding="utf-8")
     doc = nlp(text)
 
-    tokens, pos_tags = [], []
+    tokens = []
     for token in tqdm(doc, desc="Collecting tokens"):
         if token.is_alpha:
             tokens.append(token.text.lower())
-            pos_tags.append(token.pos_)
 
     bigrams = Counter()
     for i in range(len(tokens) - 1):

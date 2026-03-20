@@ -9,11 +9,14 @@ SOURCES_TATOEBA   = Path("sources/tatoeba/tatoeba_es_en_20260307.tsv")
 SOURCES_WIKIPEDIA = Path("sources/wikipedia/sample_wikipedia_text.txt")
 SOURCES_LLM_DIR   = Path("sources/llm")
 
-DATA_TATOEBA_CLEAN    = Path("data/tatoeba_es_en_clean.csv")
-DATA_TATOEBA_FREQ_POS = Path("data/tatoeba_frequency_pos.csv")
-DATA_LEMMA_POS_FREQ   = Path("data/lemma_pos_frequency.csv")
-DATA_TOP_PHRASES      = Path("data/top_phrases.csv")
-DATA_POS_LISTS_DIR    = Path("data/tatoeba_pos_lists")
+DATA_INTERIM_DIR   = Path("data/interim")
+DATA_PROCESSED_DIR = Path("data/processed")
+
+DATA_TATOEBA_CLEAN        = DATA_INTERIM_DIR  / "tatoeba_es_en_clean.csv"
+DATA_TATOEBA_LEMMA_POS    = DATA_INTERIM_DIR  / "tatoeba_lemma_pos_freq.csv"
+DATA_WIKIPEDIA_LEMMA_POS  = DATA_INTERIM_DIR  / "wikipedia_lemma_pos_freq.csv"
+DATA_POS_LISTS_DIR        = DATA_INTERIM_DIR  / "tatoeba_pos_lists"
+DATA_TOP_PHRASES          = DATA_PROCESSED_DIR / "wikipedia_top_phrases.csv"
 
 MOCHI_DIR = Path("mochi")
 
