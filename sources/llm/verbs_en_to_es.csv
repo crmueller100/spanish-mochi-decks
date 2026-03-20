@@ -1,0 +1,588 @@
+front,back,pos,claude_classification
+to be (permanent),ser,VERB,1 - Core Essentials
+to be (temporary),estar,VERB,1 - Core Essentials
+to have,tener,VERB,1 - Core Essentials
+to do/make,hacer,VERB,1 - Core Essentials
+to go,ir,VERB,1 - Core Essentials
+to be able to/can,poder,VERB,1 - Core Essentials
+to say/tell,decir,VERB,1 - Core Essentials
+to give,dar,VERB,1 - Core Essentials
+to see,ver,VERB,1 - Core Essentials
+to want/love,querer,VERB,1 - Core Essentials
+to know (facts),saber,VERB,1 - Core Essentials
+to come,venir,VERB,1 - Core Essentials
+to talk/speak,hablar,VERB,1 - Core Essentials
+to put/place,poner,VERB,1 - Core Essentials
+to owe/must,deber,VERB,1 - Core Essentials
+to think,pensar,VERB,1 - Core Essentials
+to arrive,llegar,VERB,1 - Core Essentials
+to pass/happen,pasar,VERB,1 - Core Essentials
+to carry/wear,llevar,VERB,1 - Core Essentials
+to leave/let,dejar,VERB,1 - Core Essentials
+to leave/go out,salir,VERB,1 - Core Essentials
+to follow/continue,seguir,VERB,1 - Core Essentials
+to return,volver,VERB,1 - Core Essentials
+to take/drink,tomar,VERB,1 - Core Essentials
+to know (people),conocer,VERB,1 - Core Essentials
+to seem/appear,parecer,VERB,1 - Core Essentials
+to stay/remain,quedar,VERB,1 - Core Essentials
+to believe,creer,VERB,1 - Core Essentials
+to find/meet,encontrar,VERB,1 - Core Essentials
+to call,llamar,VERB,1 - Core Essentials
+to live,vivir,VERB,1 - Core Essentials
+to look/watch,mirar,VERB,1 - Core Essentials
+to feel/regret,sentir,VERB,1 - Core Essentials
+to wait/hope,esperar,VERB,1 - Core Essentials
+to ask for/request,pedir,VERB,1 - Core Essentials
+to understand,entender,VERB,1 - Core Essentials
+to look for/search,buscar,VERB,1 - Core Essentials
+to work,trabajar,VERB,1 - Core Essentials
+to begin/start,empezar,VERB,1 - Core Essentials
+to remember,recordar,VERB,1 - Core Essentials
+to count/tell,contar,VERB,1 - Core Essentials
+to need,necesitar,VERB,1 - Core Essentials
+to read,leer,VERB,1 - Core Essentials
+to write,escribir,VERB,1 - Core Essentials
+to eat,comer,VERB,1 - Core Essentials
+to drink,beber,VERB,1 - Core Essentials
+to listen,escuchar,VERB,1 - Core Essentials
+to ask (a question),preguntar,VERB,1 - Core Essentials
+to respond/answer,responder,VERB,1 - Core Essentials
+to understand,comprender,VERB,1 - Core Essentials
+to help,ayudar,VERB,2 - High Frequency
+to treat/try,tratar,VERB,2 - High Frequency
+to finish/end,terminar,VERB,2 - High Frequency
+to lose,perder,VERB,2 - High Frequency
+to bring,traer,VERB,2 - High Frequency
+to change,cambiar,VERB,2 - High Frequency
+to sleep,dormir,VERB,2 - High Frequency
+to run,correr,VERB,2 - High Frequency
+to open,abrir,VERB,2 - High Frequency
+to close,cerrar,VERB,2 - High Frequency
+to fall,caer,VERB,2 - High Frequency
+to hear,oír,VERB,2 - High Frequency
+to show,mostrar,VERB,2 - High Frequency
+to receive,recibir,VERB,2 - High Frequency
+to allow/permit,permitir,VERB,2 - High Frequency
+to exist,existir,VERB,2 - High Frequency
+to enter,entrar,VERB,2 - High Frequency
+to appear,aparecer,VERB,2 - High Frequency
+to achieve/get,conseguir,VERB,2 - High Frequency
+to begin/start,comenzar,VERB,2 - High Frequency
+to explain,explicar,VERB,2 - High Frequency
+to achieve/manage,lograr,VERB,2 - High Frequency
+to learn,aprender,VERB,2 - High Frequency
+to play,jugar,VERB,2 - High Frequency
+to go up/climb,subir,VERB,2 - High Frequency
+to go down/lower,bajar,VERB,2 - High Frequency
+to buy,comprar,VERB,2 - High Frequency
+to pay,pagar,VERB,2 - High Frequency
+to walk,andar,VERB,2 - High Frequency
+to walk,caminar,VERB,2 - High Frequency
+to die,morir,VERB,2 - High Frequency
+to be born,nacer,VERB,2 - High Frequency
+to love,amar,VERB,2 - High Frequency
+to hate,odiar,VERB,2 - High Frequency
+to laugh,reír,VERB,2 - High Frequency
+to cry,llorar,VERB,2 - High Frequency
+to shout/scream,gritar,VERB,2 - High Frequency
+to take care of,cuidar,VERB,2 - High Frequency
+to touch/play (instrument),tocar,VERB,2 - High Frequency
+to fly,volar,VERB,2 - High Frequency
+to cook,cocinar,VERB,2 - High Frequency
+to wash,lavar,VERB,2 - High Frequency
+to have fun/enjoy,divertirse,VERB,2 - High Frequency
+to get bored,aburrirse,VERB,2 - High Frequency
+to send,enviar,VERB,2 - High Frequency
+to use,usar,VERB,2 - High Frequency
+to win/earn,ganar,VERB,2 - High Frequency
+to create,crear,VERB,2 - High Frequency
+to leave/split,partir,VERB,2 - High Frequency
+to cut,cortar,VERB,2 - High Frequency
+to produce,producir,VERB,3 - Everyday Practical
+to carry out/achieve,realizar,VERB,3 - Everyday Practical
+to develop,desarrollar,VERB,3 - Everyday Practical
+to maintain/keep,mantener,VERB,3 - Everyday Practical
+to result/turn out,resultar,VERB,3 - Everyday Practical
+to present/introduce,presentar,VERB,3 - Everyday Practical
+to consider,considerar,VERB,3 - Everyday Practical
+to take out/get,sacar,VERB,3 - Everyday Practical
+to serve,servir,VERB,3 - Everyday Practical
+to occur/happen,ocurrir,VERB,3 - Everyday Practical
+to suppose/assume,suponer,VERB,3 - Everyday Practical
+to offer,ofrecer,VERB,3 - Everyday Practical
+to establish,establecer,VERB,3 - Everyday Practical
+to decide,decidir,VERB,3 - Everyday Practical
+to move,moverse,VERB,3 - Everyday Practical
+to build/construct,construir,VERB,3 - Everyday Practical
+to form/shape,formar,VERB,3 - Everyday Practical
+to indicate,indicar,VERB,3 - Everyday Practical
+to increase,aumentar,VERB,3 - Everyday Practical
+to reduce,reducir,VERB,3 - Everyday Practical
+to place/put,colocar,VERB,3 - Everyday Practical
+to prepare,preparar,VERB,3 - Everyday Practical
+to fill,llenar,VERB,3 - Everyday Practical
+to cover,cubrir,VERB,3 - Everyday Practical
+to suffer,sufrir,VERB,3 - Everyday Practical
+to depend,depender,VERB,3 - Everyday Practical
+to continue,continuar,VERB,3 - Everyday Practical
+to act,actuar,VERB,3 - Everyday Practical
+to recognize,reconocer,VERB,3 - Everyday Practical
+to obtain/get,obtener,VERB,3 - Everyday Practical
+to accept,aceptar,VERB,3 - Everyday Practical
+to contain,contener,VERB,3 - Everyday Practical
+to matter/import,importar,VERB,3 - Everyday Practical
+to avoid,evitar,VERB,3 - Everyday Practical
+to choose/elect,elegir,VERB,3 - Everyday Practical
+to assure/secure,asegurar,VERB,3 - Everyday Practical
+to keep/guard,guardar,VERB,3 - Everyday Practical
+to include,incluir,VERB,3 - Everyday Practical
+to desire/wish,desear,VERB,3 - Everyday Practical
+to try/attempt,intentar,VERB,3 - Everyday Practical
+to study,estudiar,VERB,3 - Everyday Practical
+to define,definir,VERB,3 - Everyday Practical
+to imagine,imaginar,VERB,3 - Everyday Practical
+to invite,invitar,VERB,3 - Everyday Practical
+to break,romper,VERB,3 - Everyday Practical
+to inform,informar,VERB,3 - Everyday Practical
+to unite/join,unir,VERB,3 - Everyday Practical
+to improve,mejorar,VERB,3 - Everyday Practical
+to overcome/surpass,superar,VERB,3 - Everyday Practical
+to hold/sustain,sostener,VERB,3 - Everyday Practical
+to affect,afectar,VERB,4 - Useful Intermediate
+to mean/signify,significar,VERB,4 - Useful Intermediate
+to represent,representar,VERB,4 - Useful Intermediate
+to demonstrate/show,demostrar,VERB,4 - Useful Intermediate
+to propose,proponer,VERB,4 - Useful Intermediate
+to drive/lead,conducir,VERB,4 - Useful Intermediate
+to apply,aplicar,VERB,4 - Useful Intermediate
+to grow,crecer,VERB,4 - Useful Intermediate
+to convert/turn into,convertir,VERB,4 - Useful Intermediate
+to add,agregar,VERB,4 - Useful Intermediate
+to gather/meet,reunir,VERB,4 - Useful Intermediate
+to teach/show,enseñar,VERB,4 - Useful Intermediate
+to fulfill/comply,cumplir,VERB,4 - Useful Intermediate
+to reach/achieve,alcanzar,VERB,4 - Useful Intermediate
+to throw/launch,lanzar,VERB,4 - Useful Intermediate
+to oblige/force,obligar,VERB,4 - Useful Intermediate
+to distinguish,distinguir,VERB,4 - Useful Intermediate
+to pull out/start,arrancar,VERB,4 - Useful Intermediate
+to hide,esconder,VERB,4 - Useful Intermediate
+to employ/use,emplear,VERB,4 - Useful Intermediate
+to control,controlar,VERB,4 - Useful Intermediate
+to pronounce,pronunciar,VERB,4 - Useful Intermediate
+to bring closer/approach,acercar,VERB,4 - Useful Intermediate
+to compose,componer,VERB,4 - Useful Intermediate
+to discover,descubrir,VERB,4 - Useful Intermediate
+to function/work,funcionar,VERB,4 - Useful Intermediate
+to generate,generar,VERB,4 - Useful Intermediate
+to integrate,integrar,VERB,4 - Useful Intermediate
+to mention,mencionar,VERB,4 - Useful Intermediate
+to name/appoint,nombrar,VERB,4 - Useful Intermediate
+to burn,quemar,VERB,4 - Useful Intermediate
+to arise/emerge,surgir,VERB,4 - Useful Intermediate
+to sell,vender,VERB,4 - Useful Intermediate
+to abandon,abandonar,VERB,4 - Useful Intermediate
+to hug/embrace,abrazar,VERB,4 - Useful Intermediate
+to support,apoyar,VERB,4 - Useful Intermediate
+to take advantage of,aprovechar,VERB,4 - Useful Intermediate
+to fix/arrange,arreglar,VERB,4 - Useful Intermediate
+to attack,atacar,VERB,4 - Useful Intermediate
+to advance,avanzar,VERB,4 - Useful Intermediate
+to erase/delete,borrar,VERB,4 - Useful Intermediate
+to be quiet/silence,callar,VERB,4 - Useful Intermediate
+to cancel,cancelar,VERB,4 - Useful Intermediate
+to load/carry,cargar,VERB,4 - Useful Intermediate
+to share,compartir,VERB,4 - Useful Intermediate
+to compare,comparar,VERB,4 - Useful Intermediate
+to compete,competir,VERB,4 - Useful Intermediate
+to confirm,confirmar,VERB,4 - Useful Intermediate
+to connect,conectar,VERB,4 - Useful Intermediate
+to criticize,criticar,VERB,4 - Useful Intermediate
+to dedicate,dedicar,VERB,4 - Useful Intermediate
+to describe,describir,VERB,4 - Useful Intermediate
+to return (something),devolver,VERB,4 - Useful Intermediate
+to direct/manage,dirigir,VERB,4 - Useful Intermediate
+to discuss/argue,discutir,VERB,4 - Useful Intermediate
+to distribute,distribuir,VERB,4 - Useful Intermediate
+to last/endure,durar,VERB,4 - Useful Intermediate
+to execute/carry out,ejecutar,VERB,4 - Useful Intermediate
+to eliminate,eliminar,VERB,4 - Useful Intermediate
+to face/confront,enfrentar,VERB,4 - Useful Intermediate
+to evaluate,evaluar,VERB,4 - Useful Intermediate
+to examine,examinar,VERB,4 - Useful Intermediate
+to express,expresar,VERB,4 - Useful Intermediate
+to fix/set,fijar,VERB,4 - Useful Intermediate
+to guarantee,garantizar,VERB,4 - Useful Intermediate
+to turn/rotate,girar,VERB,4 - Useful Intermediate
+to like/please,gustar,VERB,4 - Useful Intermediate
+to prevent/impede,impedir,VERB,4 - Useful Intermediate
+to impose,imponer,VERB,4 - Useful Intermediate
+to initiate/start,iniciar,VERB,4 - Useful Intermediate
+to insist,insistir,VERB,4 - Useful Intermediate
+to investigate,investigar,VERB,4 - Useful Intermediate
+to involve,involucrar,VERB,4 - Useful Intermediate
+to join/gather,juntar,VERB,4 - Useful Intermediate
+to clean,limpiar,VERB,4 - Useful Intermediate
+to handle/manage,manejar,VERB,4 - Useful Intermediate
+to mark/score,marcar,VERB,4 - Useful Intermediate
+to kill,matar,VERB,4 - Useful Intermediate
+to measure,medir,VERB,4 - Useful Intermediate
+to deny/negate,negar,VERB,4 - Useful Intermediate
+to notice,notar,VERB,4 - Useful Intermediate
+to occupy,ocupar,VERB,4 - Useful Intermediate
+to organize,organizar,VERB,4 - Useful Intermediate
+to plan,planear,VERB,4 - Useful Intermediate
+to raise/put forward,plantear,VERB,4 - Useful Intermediate
+to worry,preocupar,VERB,4 - Useful Intermediate
+to test/try/prove,probar,VERB,4 - Useful Intermediate
+to prohibit,prohibir,VERB,4 - Useful Intermediate
+to promote,promover,VERB,4 - Useful Intermediate
+to protect,proteger,VERB,4 - Useful Intermediate
+to publish,publicar,VERB,4 - Useful Intermediate
+to reject,rechazar,VERB,4 - Useful Intermediate
+to pick up/collect,recoger,VERB,4 - Useful Intermediate
+to replace,reemplazar,VERB,4 - Useful Intermediate
+to relate/connect,relacionar,VERB,4 - Useful Intermediate
+to repair/fix,reparar,VERB,4 - Useful Intermediate
+to respect,respetar,VERB,4 - Useful Intermediate
+to resolve/solve,resolver,VERB,4 - Useful Intermediate
+to reveal,revelar,VERB,4 - Useful Intermediate
+to review/check,revisar,VERB,4 - Useful Intermediate
+to point out/indicate,señalar,VERB,5 - Advanced Vocabulary
+to separate,separar,VERB,5 - Advanced Vocabulary
+to solve,solucionar,VERB,5 - Advanced Vocabulary
+to sound/ring,sonar,VERB,5 - Advanced Vocabulary
+to surprise,sorprender,VERB,5 - Advanced Vocabulary
+to fear,temer,VERB,5 - Advanced Vocabulary
+to tolerate,tolerar,VERB,5 - Advanced Vocabulary
+to transform,transformar,VERB,5 - Advanced Vocabulary
+to translate,traducir,VERB,5 - Advanced Vocabulary
+to value/assess,valorar,VERB,5 - Advanced Vocabulary
+to verify,verificar,VERB,5 - Advanced Vocabulary
+to visit,visitar,VERB,5 - Advanced Vocabulary
+to accuse,acusar,VERB,5 - Advanced Vocabulary
+to add,añadir,VERB,5 - Advanced Vocabulary
+to get tired,cansarse,VERB,5 - Advanced Vocabulary
+to collaborate,colaborar,VERB,5 - Advanced Vocabulary
+to spend/waste,gastar,VERB,5 - Advanced Vocabulary
+to steal/rob,robar,VERB,5 - Advanced Vocabulary
+to lie/deceive,mentir,VERB,5 - Advanced Vocabulary
+to save/rescue,salvar,VERB,5 - Advanced Vocabulary
+to marry,casar,VERB,5 - Advanced Vocabulary
+to sew,coser,VERB,5 - Advanced Vocabulary
+to dry,secar,VERB,5 - Advanced Vocabulary
+to whisper,susurrar,VERB,5 - Advanced Vocabulary
+to operate,operar,VERB,5 - Advanced Vocabulary
+to protest,protestar,VERB,5 - Advanced Vocabulary
+to thank/be grateful,agradecer,VERB,5 - Advanced Vocabulary
+to demand/require,exigir,VERB,5 - Advanced Vocabulary
+to repeat,repetir,VERB,5 - Advanced Vocabulary
+to refer,referir,VERB,5 - Advanced Vocabulary
+to yield/perform,rendir,VERB,5 - Advanced Vocabulary
+to know each other,conocerse,VERB,5 - Advanced Vocabulary
+to record,grabarse,VERB,5 - Advanced Vocabulary
+to accelerate/speed up,acelerar,VERB,5 - Advanced Vocabulary
+to clarify/clear up,aclarar,VERB,5 - Advanced Vocabulary
+to accompany/go with,acompañar,VERB,5 - Advanced Vocabulary
+to agree/decide,acordar,VERB,5 - Advanced Vocabulary
+to be accustomed to,acostumbrar,VERB,5 - Advanced Vocabulary
+to adapt,adaptar,VERB,5 - Advanced Vocabulary
+to admire,admirar,VERB,5 - Advanced Vocabulary
+to acquire/obtain,adquirir,VERB,5 - Advanced Vocabulary
+to warn/notice,advertir,VERB,5 - Advanced Vocabulary
+to affirm/state,afirmar,VERB,5 - Advanced Vocabulary
+to exhaust/use up,agotar,VERB,5 - Advanced Vocabulary
+to adjust/fit,ajustar,VERB,5 - Advanced Vocabulary
+to make happy/cheer up,alegrar,VERB,5 - Advanced Vocabulary
+to feed/nourish,alimentar,VERB,5 - Advanced Vocabulary
+to store,almacenar,VERB,5 - Advanced Vocabulary
+to rent,alquilar,VERB,5 - Advanced Vocabulary
+to alter/disturb,alterar,VERB,5 - Advanced Vocabulary
+to threaten,amenazar,VERB,5 - Advanced Vocabulary
+to expand/extend,ampliar,VERB,5 - Advanced Vocabulary
+to analyze,analizar,VERB,5 - Advanced Vocabulary
+to turn off/extinguish,apagar,VERB,5 - Advanced Vocabulary
+to contribute/provide,aportar,VERB,5 - Advanced Vocabulary
+to bet/wager,apostar,VERB,5 - Advanced Vocabulary
+to appreciate/value,apreciar,VERB,5 - Advanced Vocabulary
+to approach/approximate,aproximar,VERB,5 - Advanced Vocabulary
+to drag/pull,arrastrar,VERB,5 - Advanced Vocabulary
+to attend/assist,asistir,VERB,5 - Advanced Vocabulary
+to associate,asociar,VERB,5 - Advanced Vocabulary
+to attract,atraer,VERB,5 - Advanced Vocabulary
+to cross/go through,atravesar,VERB,5 - Advanced Vocabulary
+to dare,atreverse,VERB,5 - Advanced Vocabulary
+to authorize,autorizar,VERB,5 - Advanced Vocabulary
+to block,bloquear,VERB,5 - Advanced Vocabulary
+to calculate,calcular,VERB,5 - Advanced Vocabulary
+to capture,capturar,VERB,5 - Advanced Vocabulary
+to celebrate,celebrar,VERB,5 - Advanced Vocabulary
+to circulate/go around,circular,VERB,5 - Advanced Vocabulary
+to classify,clasificar,VERB,5 - Advanced Vocabulary
+to charge/collect/earn,cobrar,VERB,5 - Advanced Vocabulary
+to combine,combinar,VERB,5 - Advanced Vocabulary
+to comment,comentar,VERB,5 - Advanced Vocabulary
+to commit (an act),cometer,VERB,5 - Advanced Vocabulary
+to communicate,comunicar,VERB,5 - Advanced Vocabulary
+to concentrate,concentrar,VERB,5 - Advanced Vocabulary
+to conclude,concluir,VERB,5 - Advanced Vocabulary
+to trust/confide,confiar,VERB,5 - Advanced Vocabulary
+to conform/make up,conformar,VERB,5 - Advanced Vocabulary
+to confront,confrontar,VERB,5 - Advanced Vocabulary
+to move emotionally,conmover,VERB,5 - Advanced Vocabulary
+to conquer,conquistar,VERB,5 - Advanced Vocabulary
+to conserve/preserve,conservar,VERB,5 - Advanced Vocabulary
+to consist,consistir,VERB,5 - Advanced Vocabulary
+to consult,consultar,VERB,5 - Advanced Vocabulary
+to hire/contract,contratar,VERB,5 - Advanced Vocabulary
+to copy,copiar,VERB,5 - Advanced Vocabulary
+to correspond/belong,corresponder,VERB,5 - Advanced Vocabulary
+to cost,costar,VERB,5 - Advanced Vocabulary
+to damage/harm,dañar,VERB,5 - Advanced Vocabulary
+to debate,debatir,VERB,5 - Advanced Vocabulary
+to decorate,decorar,VERB,5 - Advanced Vocabulary
+to defend,defender,VERB,5 - Advanced Vocabulary
+to delegate,delegar,VERB,5 - Advanced Vocabulary
+to get depressed,deprimirse,VERB,5 - Advanced Vocabulary
+to knock down/demolish,derribar,VERB,5 - Advanced Vocabulary
+to disappear,desaparecer,VERB,5 - Advanced Vocabulary
+to rest,descansar,VERB,5 - Advanced Vocabulary
+to distrust,desconfiar,VERB,5 - Advanced Vocabulary
+to disconnect,desconectar,VERB,5 - Advanced Vocabulary
+to displace/move,desplazar,VERB,5 - Advanced Vocabulary
+to stand out/highlight,destacar,VERB,5 - Advanced Vocabulary
+to stop/detain,detener,VERB,5 - Advanced Vocabulary
+to decrease/diminish,disminuir,VERB,5 - Advanced Vocabulary
+to arrange/have available,disponer,VERB,5 - Advanced Vocabulary
+to distract,distraer,VERB,5 - Advanced Vocabulary
+to divide,dividir,VERB,5 - Advanced Vocabulary
+to fold/double/dub,doblar,VERB,5 - Advanced Vocabulary
+to dominate/master,dominar,VERB,5 - Advanced Vocabulary
+to doubt,dudar,VERB,5 - Advanced Vocabulary
+to practice/exercise (a profession),ejercer,VERB,5 - Advanced Vocabulary
+to emigrate,emigrar,VERB,5 - Advanced Vocabulary
+to excite/move emotionally,emocionar,VERB,5 - Advanced Vocabulary
+to push,empujar,VERB,5 - Advanced Vocabulary
+to turn on/light,encender,VERB,5 - Advanced Vocabulary
+to focus,enfocar,VERB,5 - Advanced Vocabulary
+to deceive/trick,engañar,VERB,5 - Advanced Vocabulary
+to enrich,enriquecer,VERB,5 - Advanced Vocabulary
+to enthuse/excite,entusiasmar,VERB,5 - Advanced Vocabulary
+to age/grow old,envejecer,VERB,5 - Advanced Vocabulary
+to make an effort,esforzarse,VERB,5 - Advanced Vocabulary
+to settle/establish oneself,establecerse,VERB,5 - Advanced Vocabulary
+to estimate/esteem,estimar,VERB,5 - Advanced Vocabulary
+to exclude,excluir,VERB,5 - Advanced Vocabulary
+to experience/experiment,experimentar,VERB,5 - Advanced Vocabulary
+to explore,explorar,VERB,5 - Advanced Vocabulary
+to exploit/explode,explotar,VERB,5 - Advanced Vocabulary
+to export,exportar,VERB,5 - Advanced Vocabulary
+to facilitate/make easy,facilitar,VERB,5 - Advanced Vocabulary
+to familiarize oneself,familiarizarse,VERB,5 - Advanced Vocabulary
+to fascinate,fascinar,VERB,5 - Advanced Vocabulary
+to finance,financiar,VERB,5 - Advanced Vocabulary
+to flourish/bloom,florecer,VERB,5 - Advanced Vocabulary
+to strengthen,fortalecer,VERB,5 - Advanced Vocabulary
+to photograph,fotografiar,VERB,5 - Advanced Vocabulary
+to brake/slow down,frenar,VERB,5 - Advanced Vocabulary
+to frustrate,frustrar,VERB,5 - Advanced Vocabulary
+to govern/rule,gobernar,VERB,5 - Advanced Vocabulary
+to record/engrave,grabar,VERB,5 - Advanced Vocabulary
+to inherit,heredar,VERB,5 - Advanced Vocabulary
+to flee/escape,huir,VERB,5 - Advanced Vocabulary
+to identify,identificar,VERB,5 - Advanced Vocabulary
+to illuminate/light up,iluminar,VERB,5 - Advanced Vocabulary
+to impress,impresionar,VERB,5 - Advanced Vocabulary
+to influence,influir,VERB,5 - Advanced Vocabulary
+to install,instalar,VERB,5 - Advanced Vocabulary
+to insult,insultar,VERB,5 - Advanced Vocabulary
+to exchange/swap,intercambiar,VERB,5 - Advanced Vocabulary
+to interest,interesar,VERB,5 - Advanced Vocabulary
+to interpret/perform,interpretar,VERB,5 - Advanced Vocabulary
+to interrupt,interrumpir,VERB,5 - Advanced Vocabulary
+to introduce/insert,introducir,VERB,5 - Advanced Vocabulary
+to invent,inventar,VERB,5 - Advanced Vocabulary
+to invest/invert,invertir,VERB,5 - Advanced Vocabulary
+to irritate,irritar,VERB,5 - Advanced Vocabulary
+to swear/vow,jurar,VERB,5 - Advanced Vocabulary
+to justify,justificar,VERB,5 - Advanced Vocabulary
+to lead,liderar,VERB,5 - Advanced Vocabulary
+to fight/struggle,luchar,VERB,5 - Advanced Vocabulary
+to manipulate,manipular,VERB,5 - Advanced Vocabulary
+to mix/blend,mezclar,VERB,5 - Advanced Vocabulary
+to modify,modificar,VERB,5 - Advanced Vocabulary
+to bother/annoy,molestar,VERB,5 - Advanced Vocabulary
+to motivate,motivar,VERB,5 - Advanced Vocabulary
+to move (residence),mudarse,VERB,5 - Advanced Vocabulary
+to multiply,multiplicar,VERB,5 - Advanced Vocabulary
+to navigate/surf (web),navegar,VERB,5 - Advanced Vocabulary
+to negotiate,negociar,VERB,5 - Advanced Vocabulary
+to observe,observar,VERB,5 - Advanced Vocabulary
+to hide/conceal,ocultar,VERB,5 - Advanced Vocabulary
+to give an opinion,opinar,VERB,5 - Advanced Vocabulary
+to oppose,oponer,VERB,5 - Advanced Vocabulary
+to orient/guide,orientar,VERB,5 - Advanced Vocabulary
+to agree/make a deal,pactar,VERB,5 - Advanced Vocabulary
+to participate,participar,VERB,5 - Advanced Vocabulary
+to perceive/receive,percibir,VERB,5 - Advanced Vocabulary
+to forgive/pardon,perdonar,VERB,5 - Advanced Vocabulary
+to remain/stay,permanecer,VERB,5 - Advanced Vocabulary
+to pursue/chase,perseguir,VERB,5 - Advanced Vocabulary
+to persist,persistir,VERB,5 - Advanced Vocabulary
+to chat (Latin America),platicar,VERB,5 - Advanced Vocabulary
+to possess/own,poseer,VERB,5 - Advanced Vocabulary
+to practice,practicar,VERB,5 - Advanced Vocabulary
+to press/pressure,presionar,VERB,5 - Advanced Vocabulary
+to presume/show off,presumir,VERB,5 - Advanced Vocabulary
+to intend/claim,pretender,VERB,5 - Advanced Vocabulary
+to foresee/anticipate,prever,VERB,5 - Advanced Vocabulary
+to prioritize,priorizar,VERB,5 - Advanced Vocabulary
+to proceed,proceder,VERB,5 - Advanced Vocabulary
+to try/endeavor,procurar,VERB,5 - Advanced Vocabulary
+to project/plan,proyectar,VERB,5 - Advanced Vocabulary
+to claim/demand,reclamar,VERB,5 - Advanced Vocabulary
+to recommend,recomendar,VERB,5 - Advanced Vocabulary
+to recover/retrieve,recuperar,VERB,5 - Advanced Vocabulary
+to reflect/think over,reflexionar,VERB,5 - Advanced Vocabulary
+to register/record,registrar,VERB,5 - Advanced Vocabulary
+to regulate,regular,VERB,5 - Advanced Vocabulary
+to relate to/socialize,relacionarse,VERB,5 - Advanced Vocabulary
+to resign/give up,renunciar,VERB,5 - Advanced Vocabulary
+to reproduce,reproducir,VERB,5 - Advanced Vocabulary
+to require,requerir,VERB,5 - Advanced Vocabulary
+to resign oneself,resignarse,VERB,5 - Advanced Vocabulary
+to resist,resistir,VERB,5 - Advanced Vocabulary
+to resume/take back,retomar,VERB,5 - Advanced Vocabulary
+to delay/set back,retrasar,VERB,5 - Advanced Vocabulary
+to meet/gather,reunirse,VERB,5 - Advanced Vocabulary
+to sacrifice,sacrificar,VERB,5 - Advanced Vocabulary
+to select/choose,seleccionar,VERB,5 - Advanced Vocabulary
+to simplify,simplificar,VERB,5 - Advanced Vocabulary
+to situate/place,situar,VERB,5 - Advanced Vocabulary
+to request/apply for,solicitar,VERB,5 - Advanced Vocabulary
+to suggest,sugerir,VERB,5 - Advanced Vocabulary
+to suspend/fail (exam),suspender,VERB,5 - Advanced Vocabulary
+to substitute/replace,sustituir,VERB,5 - Advanced Vocabulary
+to take time/be late,tardar,VERB,5 - Advanced Vocabulary
+to transfer,transferir,VERB,5 - Advanced Vocabulary
+to triumph/succeed,triunfar,VERB,5 - Advanced Vocabulary
+to be located,ubicarse,VERB,5 - Advanced Vocabulary
+to use/utilize,utilizar,VERB,5 - Advanced Vocabulary
+to defeat/overcome/expire,vencer,VERB,5 - Advanced Vocabulary
+to link/connect,vincularse,VERB,5 - Advanced Vocabulary
+to turn over/flip,voltear,VERB,5 - Advanced Vocabulary
+to bore,aburrir,VERB,5 - Advanced Vocabulary
+to approach/get closer,acercarse,VERB,5 - Advanced Vocabulary
+to worsen/aggravate,agravar,VERB,5 - Advanced Vocabulary
+to endure/put up with,aguantar,VERB,5 - Advanced Vocabulary
+to be glad/rejoice,alegrarse,VERB,5 - Advanced Vocabulary
+to cheer up/decide to,animarse,VERB,5 - Advanced Vocabulary
+to be passionate about,apasionar,VERB,5 - Advanced Vocabulary
+to arm/assemble,armar,VERB,5 - Advanced Vocabulary
+to attend to/serve,atender,VERB,5 - Advanced Vocabulary
+to catch/trap,atrapar,VERB,5 - Advanced Vocabulary
+to venture/risk,aventurar,VERB,5 - Advanced Vocabulary
+to heat/warm up,calentar,VERB,5 - Advanced Vocabulary
+to calm,calmar,VERB,5 - Advanced Vocabulary
+to capture/grasp,captar,VERB,5 - Advanced Vocabulary
+to yield/give in,ceder,VERB,5 - Advanced Vocabulary
+to crash/clash,chocar,VERB,5 - Advanced Vocabulary
+to shelter/take cover,cobijarse,VERB,5 - Advanced Vocabulary
+to commit/compromise,comprometer,VERB,5 - Advanced Vocabulary
+to condense,condensar,VERB,5 - Advanced Vocabulary
+to confuse,confundir,VERB,5 - Advanced Vocabulary
+to freeze,congelar,VERB,5 - Advanced Vocabulary
+to convince,convencer,VERB,5 - Advanced Vocabulary
+to correct,corregir,VERB,5 - Advanced Vocabulary
+to question/challenge,cuestionar,VERB,5 - Advanced Vocabulary
+to realize,darse cuenta,VERB,6 - Specialized/Nuanced
+to weaken,debilitar,VERB,6 - Specialized/Nuanced
+to deposit,depositar,VERB,6 - Specialized/Nuanced
+to develop/take place,desarrollarse,VERB,6 - Specialized/Nuanced
+to fire/say goodbye,despedir,VERB,6 - Specialized/Nuanced
+to wake up/awaken,despertar,VERB,6 - Specialized/Nuanced
+to deteriorate,deteriorar,VERB,6 - Specialized/Nuanced
+to digest,digerir,VERB,6 - Specialized/Nuanced
+to excuse/forgive,disculpar,VERB,6 - Specialized/Nuanced
+to enjoy,disfrutar,VERB,6 - Specialized/Nuanced
+to distance,distanciar,VERB,6 - Specialized/Nuanced
+to dramatize,dramatizar,VERB,6 - Specialized/Nuanced
+to worsen,empeorar,VERB,6 - Specialized/Nuanced
+to fit/match,encajar,VERB,6 - Specialized/Nuanced
+to be in charge of,encargarse,VERB,6 - Specialized/Nuanced
+to be wrong/make a mistake,equivocarse,VERB,6 - Specialized/Nuanced
+to be scarce,escasear,VERB,6 - Specialized/Nuanced
+to premiere/use for first time,estrenar,VERB,6 - Specialized/Nuanced
+to extend/spread,extender,VERB,6 - Specialized/Nuanced
+to miss/find strange,extrañar,VERB,6 - Specialized/Nuanced
+to manufacture/fabricate,fabricar,VERB,6 - Specialized/Nuanced
+to pretend/fake,fingir,VERB,6 - Specialized/Nuanced
+to formulate,formular,VERB,6 - Specialized/Nuanced
+to fail,fracasar,VERB,6 - Specialized/Nuanced
+to impact,impactar,VERB,6 - Specialized/Nuanced
+to imply/involve,implicar,VERB,6 - Specialized/Nuanced
+to inconvenience/bother,incomodar,VERB,6 - Specialized/Nuanced
+to increase/increment,incrementar,VERB,6 - Specialized/Nuanced
+to register/enroll,inscribirse,VERB,6 - Specialized/Nuanced
+to inspire,inspirar,VERB,6 - Specialized/Nuanced
+to intervene,intervenir,VERB,6 - Specialized/Nuanced
+to get irritated,irritarse,VERB,6 - Specialized/Nuanced
+to regret/lament,lamentar,VERB,6 - Specialized/Nuanced
+to free/liberate,liberar,VERB,6 - Specialized/Nuanced
+to limit oneself,limitarse,VERB,6 - Specialized/Nuanced
+to locate/find,localizar,VERB,6 - Specialized/Nuanced
+to get up early,madrugar,VERB,6 - Specialized/Nuanced
+to manifest/express,manifestar,VERB,6 - Specialized/Nuanced
+to deserve/merit,merecer,VERB,6 - Specialized/Nuanced
+to minimize,minimizar,VERB,6 - Specialized/Nuanced
+to mitigate,mitigar,VERB,6 - Specialized/Nuanced
+to model/shape,modelar,VERB,6 - Specialized/Nuanced
+to normalize,normalizar,VERB,6 - Specialized/Nuanced
+to oppose/object,oponerse,VERB,6 - Specialized/Nuanced
+to optimize,optimizar,VERB,6 - Specialized/Nuanced
+to stop/stand up,pararse,VERB,6 - Specialized/Nuanced
+to harm/damage,perjudicar,VERB,6 - Specialized/Nuanced
+to belong,pertenecer,VERB,6 - Specialized/Nuanced
+to stand firm,plantarse,VERB,6 - Specialized/Nuanced
+to make possible,posibilitar,VERB,6 - Specialized/Nuanced
+to postpone,postergar,VERB,6 - Specialized/Nuanced
+to specify/need,precisar,VERB,6 - Specialized/Nuanced
+to budget,presupuestar,VERB,6 - Specialized/Nuanced
+to progress,progresar,VERB,6 - Specialized/Nuanced
+to prolong/extend,prolongar,VERB,6 - Specialized/Nuanced
+to provoke/cause,provocar,VERB,6 - Specialized/Nuanced
+to reason,razonar,VERB,6 - Specialized/Nuanced
+to react,reaccionar,VERB,6 - Specialized/Nuanced
+to reconstruct,reconstruir,VERB,6 - Specialized/Nuanced
+to resort to/appeal,recurrir,VERB,6 - Specialized/Nuanced
+to write/draft,redactar,VERB,6 - Specialized/Nuanced
+to renew/renovate,renovar,VERB,6 - Specialized/Nuanced
+to review/go over,repasar,VERB,6 - Specialized/Nuanced
+to repress/suppress,reprimir,VERB,6 - Specialized/Nuanced
+to challenge,retar,VERB,6 - Specialized/Nuanced
+to withdraw/remove,retirar,VERB,6 - Specialized/Nuanced
+to beg/pray,rogar,VERB,6 - Specialized/Nuanced
+to skip/jump over,saltarse,VERB,6 - Specialized/Nuanced
+to sanction/penalize,sancionar,VERB,6 - Specialized/Nuanced
+to satisfy,satisfacer,VERB,6 - Specialized/Nuanced
+to simulate/pretend,simular,VERB,6 - Specialized/Nuanced
+to release/let go,soltar,VERB,6 - Specialized/Nuanced
+to suspect,sospechar,VERB,6 - Specialized/Nuanced
+to soften/smooth,suavizar,VERB,6 - Specialized/Nuanced
+to stagger/wobble,tambalear,VERB,6 - Specialized/Nuanced
+to go/come/turn to,acudir,VERB,6 - Specialized/Nuanced
+to order/entrust,encargar,VERB,6 - Specialized/Nuanced
+to climb/scale,escalar,VERB,6 - Specialized/Nuanced
+to predict,predecir,VERB,6 - Specialized/Nuanced
+to program/schedule,programar,VERB,6 - Specialized/Nuanced
+to regroup,reagrupar,VERB,6 - Specialized/Nuanced
+to send/refer,remitir,VERB,6 - Specialized/Nuanced
+to locate/place,ubicar,VERB,6 - Specialized/Nuanced
+to lie (be lying down),yacer,VERB,6 - Specialized/Nuanced
+to be needed,necesitarse,VERB,6 - Specialized/Nuancedxf
+to guess,adivinar,VERB,7 - Random Find
+to open/to uncover,destapar,VERB,7 - Random Find
+to overcome/to go beyond,superar,VERB,7 - Random Find
+to promise,prometer,VERB,7 - Random Find
+to challenge,desafiar,VERB,7 - Random Find

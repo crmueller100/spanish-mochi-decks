@@ -1,0 +1,251 @@
+front,back,pos,claude_classification
+day,el día,NOUN,1 - Core Essentials
+year,el año,NOUN,1 - Core Essentials
+time/occasion,la vez,NOUN,1 - Core Essentials
+time/weather,el tiempo,NOUN,1 - Core Essentials
+person,la persona,NOUN,1 - Core Essentials
+man,el hombre,NOUN,1 - Core Essentials
+woman,la mujer,NOUN,1 - Core Essentials
+life,la vida,NOUN,1 - Core Essentials
+world,el mundo,NOUN,1 - Core Essentials
+house/home,la casa,NOUN,1 - Core Essentials
+work/job,el trabajo,NOUN,1 - Core Essentials
+country,el país,NOUN,1 - Core Essentials
+hand,la mano,NOUN,1 - Core Essentials
+part,la parte,NOUN,1 - Core Essentials
+place,el lugar,NOUN,1 - Core Essentials
+case/situation,el caso,NOUN,1 - Core Essentials
+thing,la cosa,NOUN,1 - Core Essentials
+child/boy,el niño,NOUN,1 - Core Essentials
+girl,la niña,NOUN,1 - Core Essentials
+moment,el momento,NOUN,1 - Core Essentials
+city,la ciudad,NOUN,1 - Core Essentials
+water,el agua,NOUN,1 - Core Essentials
+form/way/shape,la forma,NOUN,1 - Core Essentials
+name,el nombre,NOUN,1 - Core Essentials
+night,la noche,NOUN,1 - Core Essentials
+point,el punto,NOUN,1 - Core Essentials
+hour/time,la hora,NOUN,1 - Core Essentials
+government,el gobierno,NOUN,1 - Core Essentials
+state/condition,el estado,NOUN,1 - Core Essentials
+father,el padre,NOUN,1 - Core Essentials
+mother,la madre,NOUN,1 - Core Essentials
+family,la familia,NOUN,1 - Core Essentials
+friend (m),el amigo,NOUN,1 - Core Essentials
+friend (f),la amiga,NOUN,1 - Core Essentials
+problem,el problema,NOUN,1 - Core Essentials
+word,la palabra,NOUN,1 - Core Essentials
+people,la gente,NOUN,1 - Core Essentials
+number,el número,NOUN,1 - Core Essentials
+type/guy,el tipo,NOUN,1 - Core Essentials
+manner/way,la manera,NOUN,1 - Core Essentials
+money,el dinero,NOUN,1 - Core Essentials
+week,la semana,NOUN,1 - Core Essentials
+month,el mes,NOUN,1 - Core Essentials
+question,la pregunta,NOUN,1 - Core Essentials
+answer,la respuesta,NOUN,1 - Core Essentials
+road/path/way,el camino,NOUN,1 - Core Essentials
+eye,el ojo,NOUN,1 - Core Essentials
+face,la cara,NOUN,1 - Core Essentials
+time/instance,la vez,NOUN,1 - Core Essentials
+side,el lado,NOUN,1 - Core Essentials
+food/meal,la comida,NOUN,2 - Everyday Life
+bread,el pan,NOUN,2 - Everyday Life
+milk,la leche,NOUN,2 - Everyday Life
+coffee,el café,NOUN,2 - Everyday Life
+wine,el vino,NOUN,2 - Everyday Life
+beer,la cerveza,NOUN,2 - Everyday Life
+juice,el jugo,NOUN,2 - Everyday Life
+tea,el té,NOUN,2 - Everyday Life
+meat,la carne,NOUN,2 - Everyday Life
+chicken,el pollo,NOUN,2 - Everyday Life
+fish (food),el pescado,NOUN,2 - Everyday Life
+rice,el arroz,NOUN,2 - Everyday Life
+soup,la sopa,NOUN,2 - Everyday Life
+salad,la ensalada,NOUN,2 - Everyday Life
+cheese,el queso,NOUN,2 - Everyday Life
+egg,el huevo,NOUN,2 - Everyday Life
+fruit,la fruta,NOUN,2 - Everyday Life
+apple,la manzana,NOUN,2 - Everyday Life
+banana,el plátano,NOUN,2 - Everyday Life
+orange,la naranja,NOUN,2 - Everyday Life
+vegetable,la verdura,NOUN,2 - Everyday Life
+tomato,el tomate,NOUN,2 - Everyday Life
+onion,la cebolla,NOUN,2 - Everyday Life
+garlic,el ajo,NOUN,2 - Everyday Life
+breakfast,el desayuno,NOUN,2 - Everyday Life
+lunch,el almuerzo,NOUN,2 - Everyday Life
+dinner,la cena,NOUN,2 - Everyday Life
+restaurant,el restaurante,NOUN,2 - Everyday Life
+table,la mesa,NOUN,2 - Everyday Life
+chair,la silla,NOUN,2 - Everyday Life
+glass,el vaso,NOUN,2 - Everyday Life
+cup,la taza,NOUN,2 - Everyday Life
+plate/dish,el plato,NOUN,2 - Everyday Life
+bill/account,la cuenta,NOUN,2 - Everyday Life
+store/shop,la tienda,NOUN,2 - Everyday Life
+market,el mercado,NOUN,2 - Everyday Life
+supermarket,el supermercado,NOUN,2 - Everyday Life
+price,el precio,NOUN,2 - Everyday Life
+clothes,la ropa,NOUN,2 - Everyday Life
+shirt,la camisa,NOUN,2 - Everyday Life
+pants,el pantalón,NOUN,2 - Everyday Life
+shoe,el zapato,NOUN,2 - Everyday Life
+jacket,la chaqueta,NOUN,2 - Everyday Life
+dress,el vestido,NOUN,2 - Everyday Life
+skirt,la falda,NOUN,2 - Everyday Life
+hat,el sombrero,NOUN,2 - Everyday Life
+bed,la cama,NOUN,2 - Everyday Life
+bathroom,el baño,NOUN,2 - Everyday Life
+kitchen,la cocina,NOUN,2 - Everyday Life
+living room,la sala,NOUN,2 - Everyday Life
+door,la puerta,NOUN,2 - Everyday Life
+window,la ventana,NOUN,2 - Everyday Life
+floor/apartment,el piso,NOUN,2 - Everyday Life
+key,la llave,NOUN,2 - Everyday Life
+car,el coche,NOUN,2 - Everyday Life
+bus,el autobús,NOUN,2 - Everyday Life
+train,el tren,NOUN,2 - Everyday Life
+airplane,el avión,NOUN,2 - Everyday Life
+airport,el aeropuerto,NOUN,2 - Everyday Life
+station,la estación,NOUN,2 - Everyday Life
+street,la calle,NOUN,2 - Everyday Life
+neighborhood,el barrio,NOUN,2 - Everyday Life
+square/plaza,la plaza,NOUN,2 - Everyday Life
+hospital,el hospital,NOUN,2 - Everyday Life
+pharmacy,la farmacia,NOUN,2 - Everyday Life
+doctor,el médico,NOUN,2 - Everyday Life
+nurse,la enfermera,NOUN,2 - Everyday Life
+medicine,la medicina,NOUN,2 - Everyday Life
+bank,el banco,NOUN,2 - Everyday Life
+hotel,el hotel,NOUN,2 - Everyday Life
+phone,el teléfono,NOUN,3 - People & Body
+cell phone,el celular,NOUN,3 - People & Body
+computer,la computadora,NOUN,3 - People & Body
+internet,el internet,NOUN,3 - People & Body
+mail/email,el correo,NOUN,3 - People & Body
+head,la cabeza,NOUN,3 - People & Body
+hair,el pelo,NOUN,3 - People & Body
+mouth,la boca,NOUN,3 - People & Body
+nose,la nariz,NOUN,3 - People & Body
+ear,la oreja,NOUN,3 - People & Body
+neck,el cuello,NOUN,3 - People & Body
+shoulder,el hombro,NOUN,3 - People & Body
+arm,el brazo,NOUN,3 - People & Body
+leg,la pierna,NOUN,3 - People & Body
+foot,el pie,NOUN,3 - People & Body
+finger/toe,el dedo,NOUN,3 - People & Body
+heart,el corazón,NOUN,3 - People & Body
+back,la espalda,NOUN,3 - People & Body
+stomach,el estómago,NOUN,3 - People & Body
+skin,la piel,NOUN,3 - People & Body
+husband,el esposo,NOUN,3 - People & Body
+wife,la esposa,NOUN,3 - People & Body
+son,el hijo,NOUN,3 - People & Body
+daughter,la hija,NOUN,3 - People & Body
+brother,el hermano,NOUN,3 - People & Body
+sister,la hermana,NOUN,3 - People & Body
+grandfather,el abuelo,NOUN,3 - People & Body
+grandmother,la abuela,NOUN,3 - People & Body
+uncle,el tío,NOUN,3 - People & Body
+aunt,la tía,NOUN,3 - People & Body
+cousin (m),el primo,NOUN,3 - People & Body
+cousin (f),la prima,NOUN,3 - People & Body
+boyfriend,el novio,NOUN,3 - People & Body
+girlfriend,la novia,NOUN,3 - People & Body
+neighbor,el vecino,NOUN,3 - People & Body
+boss,el jefe,NOUN,3 - People & Body
+colleague/partner,el compañero,NOUN,3 - People & Body
+teacher,el profesor,NOUN,3 - People & Body
+student,el estudiante,NOUN,3 - People & Body
+child,el niño,NOUN,3 - People & Body
+school,la escuela,NOUN,4 - Time & Nature
+university,la universidad,NOUN,4 - Time & Nature
+office,la oficina,NOUN,4 - Time & Nature
+business,el negocio,NOUN,4 - Time & Nature
+company,la empresa,NOUN,4 - Time & Nature
+Monday,el lunes,NOUN,4 - Time & Nature
+Tuesday,el martes,NOUN,4 - Time & Nature
+Wednesday,el miércoles,NOUN,4 - Time & Nature
+Thursday,el jueves,NOUN,4 - Time & Nature
+Friday,el viernes,NOUN,4 - Time & Nature
+Saturday,el sábado,NOUN,4 - Time & Nature
+Sunday,el domingo,NOUN,4 - Time & Nature
+January,enero,,4 - Time & Nature
+February,febrero,,4 - Time & Nature
+March,marzo,,4 - Time & Nature
+April,abril,,4 - Time & Nature
+May,mayo,,4 - Time & Nature
+June,junio,,4 - Time & Nature
+July,julio,,4 - Time & Nature
+August,agosto,,4 - Time & Nature
+September,septiembre,,4 - Time & Nature
+October,octubre,,4 - Time & Nature
+November,noviembre,,4 - Time & Nature
+December,diciembre,,4 - Time & Nature
+morning,la mañana,f,4 - Time & Nature
+afternoon/evening,la tarde,f,4 - Time & Nature
+night,la noche,f,4 - Time & Nature
+sun,el sol,m,4 - Time & Nature
+moon,la luna,f,4 - Time & Nature
+rain,la lluvia,f,4 - Time & Nature
+wind,el viento,m,4 - Time & Nature
+snow,la nieve,f,4 - Time & Nature
+heat,el calor,m,4 - Time & Nature
+cold,el frío,m,4 - Time & Nature
+sky,el cielo,m,4 - Time & Nature
+earth/land,la tierra,f,4 - Time & Nature
+sea,el mar,m,4 - Time & Nature
+river,el río,m,4 - Time & Nature
+mountain,la montaña,f,4 - Time & Nature
+forest,el bosque,m,4 - Time & Nature
+dog,el perro,m,5 - Around Town
+cat,el gato,m,5 - Around Town
+bird,el pájaro,m,5 - Around Town
+book,el libro,m,5 - Around Town
+magazine,la revista,f,5 - Around Town
+newspaper,el periódico,m,5 - Around Town
+music,la música,f,5 - Around Town
+movie/film,la película,f,5 - Around Town
+sport,el deporte,m,5 - Around Town
+soccer/football,el fútbol,m,5 - Around Town
+game/match,el partido,m,5 - Around Town
+trip/journey,el viaje,m,5 - Around Town
+vacation,las vacaciones,f pl,5 - Around Town
+passport,el pasaporte,m,5 - Around Town
+suitcase,la maleta,f,5 - Around Town
+map,el mapa,m,5 - Around Town
+room,la habitación,f,5 - Around Town
+elevator,el ascensor,m,5 - Around Town
+stairs,la escalera,f,5 - Around Town
+garden,el jardín,m,5 - Around Town
+park,el parque,m,5 - Around Town
+beach,la playa,f,5 - Around Town
+building,el edificio,m,5 - Around Town
+church,la iglesia,f,5 - Around Town
+museum,el museo,m,5 - Around Town
+library,la biblioteca,f,5 - Around Town
+color,el color,m,5 - Around Town
+red,el rojo,m,5 - Around Town
+blue,el azul,m,5 - Around Town
+green,el verde,m,5 - Around Town
+black,el negro,m,5 - Around Town
+white,el blanco,m,5 - Around Town
+yellow,el amarillo,m,5 - Around Town
+orange (color),el naranja,m,5 - Around Town
+pink,el rosa,m,5 - Around Town
+purple,el morado,m,5 - Around Town
+gray,el gris,m,5 - Around Town
+brown,el marrón,m,5 - Around Town
+idea,la idea,f,5 - Around Town
+information,la información,f,5 - Around Town
+example,el ejemplo,m,5 - Around Town
+reason,la razón,f,5 - Around Town
+result,el resultado,m,5 - Around Town
+situation,la situación,f,5 - Around Town
+message,el mensaje,m,5 - Around Town
+news,la noticia,f,5 - Around Town
+event,el evento,m,5 - Around Town
+meeting,la reunión,f,5 - Around Town
+project,el proyecto,m,5 - Around Town
+plan,el plan,m,5 - Around Town

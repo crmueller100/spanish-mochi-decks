@@ -1,0 +1,51 @@
+front,back,pos,claude_classification
+very,muy,ADV,1 - Essential
+also/too,también,ADV,1 - Essential
+no/not,no,ADV,1 - Essential
+yes,sí,ADV,1 - Essential
+already/now,ya,ADV,1 - Essential
+still/yet,todavía,ADV,1 - Essential
+still/yet/even,aún,ADV,1 - Essential
+always,siempre,ADV,1 - Essential
+never,nunca,ADV,1 - Essential
+never (emphatic),jamás,ADV,1 - Essential
+here,aquí,ADV,1 - Essential
+there,allí,ADV,1 - Essential
+there (nearby),ahí,ADV,1 - Essential
+now,ahora,ADV,1 - Essential
+before/earlier,antes,ADV,1 - Essential
+after/later,después,ADV,1 - Essential
+today,hoy,ADV,1 - Essential
+yesterday,ayer,ADV,1 - Essential
+tomorrow/morning,mañana,ADV,1 - Essential
+soon,pronto,ADV,1 - Essential
+late,tarde,ADV,1 - Essential
+early,temprano,ADV,1 - Essential
+well/good,bien,ADV,1 - Essential
+badly,mal,ADV,1 - Essential
+like this/so/thus,así,ADV,1 - Essential
+more,más,ADV,2 - High Frequency
+less,menos,ADV,2 - High Frequency
+quite/enough,bastante,ADV,2 - High Frequency
+too much,demasiado,ADV,2 - High Frequency
+almost,casi,ADV,2 - High Frequency
+only/just,solo,ADV,2 - High Frequency
+so/as,tan,ADV,2 - High Frequency
+so much/as much,tanto,ADV,2 - High Frequency
+maybe/perhaps,quizás,ADV,2 - High Frequency
+maybe/perhaps,tal vez,ADV,2 - High Frequency
+of course/clearly,claro,ADV,2 - High Frequency
+of course,por supuesto,ADV,2 - High Frequency
+exactly,exactamente,ADV,2 - High Frequency
+especially,especialmente,ADV,2 - High Frequency
+generally,generalmente,ADV,2 - High Frequency
+normally,normalmente,ADV,2 - High Frequency
+currently,actualmente,ADV,2 - High Frequency
+finally,finalmente,ADV,2 - High Frequency
+really/truly,realmente,ADV,2 - High Frequency
+totally,totalmente,ADV,2 - High Frequency
+completely,completamente,ADV,3 - Useful
+absolutely,absolutamente,ADV,3 - Useful
+perfectly,perfectamente,ADV,3 - Useful
+quickly,rápidamente,ADV,3 - Useful
+slowly,lentamente,ADV,3 - Useful

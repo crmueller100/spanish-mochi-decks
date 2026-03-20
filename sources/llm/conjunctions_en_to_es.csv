@@ -1,0 +1,101 @@
+front,back,pos,claude_classification
+and,y,CONJ,1 - Essential
+or,o,CONJ,1 - Essential
+but,pero,CONJ,1 - Essential
+that/which,que,CONJ,1 - Essential
+because,porque,CONJ,1 - Essential
+if,si,CONJ,1 - Essential
+when,cuando,CONJ,1 - Essential
+as/like/since,como,CONJ,1 - Essential
+although/even though/even if,aunque,CONJ,1 - Essential
+while/meanwhile,mientras,CONJ,1 - Essential
+where,donde,CONJ,1 - Essential
+until/up to,hasta,CONJ,1 - Essential
+before,antes de,CONJ,1 - Essential
+after,después de,CONJ,1 - Essential
+in order to/for,para,CONJ,1 - Essential
+without,sin,CONJ,1 - Essential
+nor/neither,ni,CONJ,1 - Essential
+but rather/but instead,sino,CONJ,1 - Essential
+well/since/so,pues,CONJ,1 - Essential
+and (before i/hi),e,CONJ,1 - Essential
+so/therefore,así que,CONJ,2 - High Frequency
+that's why/therefore,por eso,CONJ,2 - High Frequency
+then/so,entonces,CONJ,2 - High Frequency
+therefore/thus,por lo tanto,CONJ,2 - High Frequency
+however/nevertheless,sin embargo,CONJ,2 - High Frequency
+nevertheless/however,no obstante,CONJ,2 - High Frequency
+despite/in spite of,a pesar de,CONJ,2 - High Frequency
+on the other hand/instead,en cambio,CONJ,2 - High Frequency
+on the contrary,al contrario,CONJ,2 - High Frequency
+also/furthermore/besides,además,CONJ,2 - High Frequency
+also/too,también,CONJ,2 - High Frequency
+neither/not either,tampoco,CONJ,2 - High Frequency
+neither... nor,ni... ni,CONJ,2 - High Frequency
+both... and,tanto... como,CONJ,2 - High Frequency
+either... or,o... o,CONJ,2 - High Frequency
+since/given that,ya que,CONJ,2 - High Frequency
+given that,dado que,CONJ,2 - High Frequency
+due to/because of,debido a,CONJ,2 - High Frequency
+because of/due to,a causa de,CONJ,2 - High Frequency
+thanks to,gracias a,CONJ,2 - High Frequency
+so that/in order that,para que,CONJ,2 - High Frequency
+in order to,a fin de,CONJ,2 - High Frequency
+with the aim of,con el fin de,CONJ,2 - High Frequency
+as long as/provided that,con tal de que,CONJ,3 - Useful Intermediate
+unless,a menos que,CONJ,3 - Useful Intermediate
+as long as/whenever,siempre que,CONJ,3 - Useful Intermediate
+in case/in the event that,en caso de que,CONJ,3 - Useful Intermediate
+unless,a no ser que,CONJ,3 - Useful Intermediate
+according to/as,según,CONJ,3 - Useful Intermediate
+as/in accordance with,conforme,CONJ,3 - Useful Intermediate
+just as/such as,tal como,CONJ,3 - Useful Intermediate
+as if,como si,CONJ,3 - Useful Intermediate
+as soon as,en cuanto,CONJ,3 - Useful Intermediate
+as soon as,tan pronto como,CONJ,3 - Useful Intermediate
+once/as soon as,una vez que,CONJ,3 - Useful Intermediate
+since (time),desde que,CONJ,3 - Useful Intermediate
+while/whereas,mientras que,CONJ,3 - Useful Intermediate
+every time that,cada vez que,CONJ,3 - Useful Intermediate
+after (with clause),después de que,CONJ,3 - Useful Intermediate
+before (with clause),antes de que,CONJ,3 - Useful Intermediate
+that is/in other words,es decir,CONJ,3 - Useful Intermediate
+in other words/that is,o sea,CONJ,3 - Useful Intermediate
+for example,por ejemplo,CONJ,3 - Useful Intermediate
+furthermore/what's more,es más,CONJ,3 - Useful Intermediate
+in fact,de hecho,CONJ,3 - Useful Intermediate
+actually/in reality,en realidad,CONJ,3 - Useful Intermediate
+by the way,por cierto,CONJ,3 - Useful Intermediate
+as for/regarding,en cuanto a,CONJ,3 - Useful Intermediate
+regarding/with respect to,respecto a,CONJ,3 - Useful Intermediate
+even though/despite the fact that,a pesar de que,CONJ,4 - Advanced
+no matter how much,por más que,CONJ,4 - Advanced
+even when/even if,aun cuando,CONJ,4 - Advanced
+either... or (formal),bien... bien,CONJ,4 - Advanced
+whether... or,ya... ya,CONJ,4 - Advanced
+whether... or,sea... sea,CONJ,4 - Advanced
+not only... but also,no solo... sino también,CONJ,4 - Advanced
+so much... that,tanto... que,CONJ,4 - Advanced
+so... that,tan... que,CONJ,4 - Advanced
+so that/in such a way that,de manera que,CONJ,4 - Advanced
+so that/therefore,de modo que,CONJ,4 - Advanced
+hence/that's why,de ahí que,CONJ,4 - Advanced
+since/given that,puesto que,CONJ,4 - Advanced
+on the condition that,a condición de que,CONJ,4 - Advanced
+on the condition that,con la condición de que,CONJ,4 - Advanced
+as long as,siempre y cuando,CONJ,4 - Advanced
+unless/except that,salvo que,CONJ,4 - Advanced
+except that,excepto que,CONJ,4 - Advanced
+to top it all off,para colmo,CONJ,4 - Advanced
+on top of that,encima,CONJ,4 - Advanced
+the thing is,es que,CONJ,4 - Advanced
+what's more,lo que es más,CONJ,4 - Advanced
+above all/especially,sobre todo,CONJ,4 - Advanced
+in short/ultimately,en definitiva,CONJ,4 - Advanced
+in summary,en resumen,CONJ,4 - Advanced
+in conclusion,en conclusión,CONJ,4 - Advanced
+after all/when all is said and done,al fin y al cabo,CONJ,4 - Advanced
+anyway/in short,en fin,CONJ,4 - Advanced
+anyway/in the end (colloquial),total,CONJ,4 - Advanced
+when all is said and done,a fin de cuentas,CONJ,4 - Advanced
+ultimately/in the last resort,en última instancia,CONJ,4 - Advanced

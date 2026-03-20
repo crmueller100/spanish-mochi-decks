@@ -1,0 +1,24 @@
+front,back,pos,claude_classification
+of/from/about,de,ADP,1 - Essential
+to/at,a,ADP,1 - Essential
+in/on/at,en,ADP,1 - Essential
+with,con,ADP,1 - Essential
+for/by/through/because of,por,ADP,1 - Essential
+for/in order to/by (deadline),para,ADP,1 - Essential
+without,sin,ADP,1 - Essential
+on/over/about,sobre,ADP,1 - Essential
+between/among,entre,ADP,1 - Essential
+until/up to/as far as,hasta,ADP,1 - Essential
+since/from (time/place),desde,ADP,1 - Essential
+according to,según,ADP,1 - Essential
+against,contra,ADP,1 - Essential
+during,durante,ADP,1 - Essential
+toward/around (time),hacia,ADP,1 - Essential
+under/below,bajo,ADP,2 - Common
+before/in front of,ante,ADP,2 - Common
+after/behind,tras,ADP,2 - Common
+by means of,mediante,ADP,2 - Common
+except,excepto,ADP,2 - Common
+except/save for,salvo,ADP,2 - Common
+including/even,incluso,ADP,2 - Common
+around/approximately,circa,ADP,3 - Rare

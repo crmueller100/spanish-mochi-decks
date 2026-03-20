@@ -1,0 +1,19 @@
+front,back,pos,claude_classification
+what?,¿qué?,QUESTION,1 - Essential
+who? (singular),¿quién?,QUESTION,1 - Essential
+who? (plural),¿quiénes?,QUESTION,1 - Essential
+how?/what? (repeat),¿cómo?,QUESTION,1 - Essential
+when?,¿cuándo?,QUESTION,1 - Essential
+where?,¿dónde?,QUESTION,1 - Essential
+where to?,¿adónde?,QUESTION,1 - Essential
+why?,¿por qué?,QUESTION,1 - Essential
+which?/what? (singular),¿cuál?,QUESTION,1 - Essential
+which? (plural),¿cuáles?,QUESTION,1 - Essential
+how much?,¿cuánto/a?,QUESTION,1 - Essential
+how many?,¿cuántos/as?,QUESTION,1 - Essential
+from where?,¿de dónde?,QUESTION,2 - Common
+whose?,¿de quién?,QUESTION,2 - Common
+what for?/why?,¿para qué?,QUESTION,2 - Common
+with whom?,¿con quién?,QUESTION,2 - Common
+at what time?,¿a qué hora?,QUESTION,2 - Common
+how long?,¿cuánto tiempo?,QUESTION,2 - Common

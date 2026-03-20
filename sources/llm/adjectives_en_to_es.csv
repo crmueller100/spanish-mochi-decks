@@ -1,0 +1,196 @@
+front,back,pos,claude_classification
+good,bueno/a,ADJ,1 - Core Essentials
+bad,malo/a,ADJ,1 - Core Essentials
+big/great,grande,ADJ,1 - Core Essentials
+small/little,pequeño/a,ADJ,1 - Core Essentials
+new,nuevo/a,ADJ,1 - Core Essentials
+old,viejo/a,ADJ,1 - Core Essentials
+same,mismo/a,ADJ,1 - Core Essentials
+other/another,otro/a,ADJ,1 - Core Essentials
+much/many/a lot,mucho/a,ADJ,1 - Core Essentials
+little/few,poco/a,ADJ,1 - Core Essentials
+all/every,todo/a,ADJ,1 - Core Essentials
+first,primero/a,ADJ,1 - Core Essentials
+last/latest,último/a,ADJ,1 - Core Essentials
+alone/only,solo/a,ADJ,1 - Core Essentials
+own/proper,propio/a,ADJ,1 - Core Essentials
+long,largo/a,ADJ,1 - Core Essentials
+short,corto/a,ADJ,1 - Core Essentials
+tall/high,alto/a,ADJ,1 - Core Essentials
+low/short,bajo/a,ADJ,1 - Core Essentials
+better/best,mejor,ADJ,1 - Core Essentials
+worse/worst,peor,ADJ,1 - Core Essentials
+older/greater,mayor,ADJ,1 - Core Essentials
+younger/lesser,menor,ADJ,1 - Core Essentials
+more,más,ADJ,1 - Core Essentials
+less/fewer,menos,ADJ,1 - Core Essentials
+happy,feliz,ADJ,1 - Core Essentials
+sad,triste,ADJ,1 - Core Essentials
+tired,cansado/a,ADJ,1 - Core Essentials
+sick/ill,enfermo/a,ADJ,1 - Core Essentials
+busy,ocupado/a,ADJ,1 - Core Essentials
+free,libre,ADJ,1 - Core Essentials
+easy,fácil,ADJ,1 - Core Essentials
+difficult/hard,difícil,ADJ,1 - Core Essentials
+important,importante,ADJ,1 - Core Essentials
+different,diferente,ADJ,1 - Core Essentials
+equal/same,igual,ADJ,1 - Core Essentials
+possible,posible,ADJ,1 - Core Essentials
+necessary,necesario/a,ADJ,1 - Core Essentials
+true/real,verdadero/a,ADJ,1 - Core Essentials
+FALSE,falso/a,ADJ,1 - Core Essentials
+open,abierto/a,ADJ,2 - Descriptions
+closed,cerrado/a,ADJ,2 - Descriptions
+full,lleno/a,ADJ,2 - Descriptions
+empty,vacío/a,ADJ,2 - Descriptions
+clean,limpio/a,ADJ,2 - Descriptions
+dirty,sucio/a,ADJ,2 - Descriptions
+hot,caliente,ADJ,2 - Descriptions
+cold,frío/a,ADJ,2 - Descriptions
+fast/quick,rápido/a,ADJ,2 - Descriptions
+slow,lento/a,ADJ,2 - Descriptions
+strong,fuerte,ADJ,2 - Descriptions
+weak,débil,ADJ,2 - Descriptions
+rich/delicious,rico/a,ADJ,2 - Descriptions
+poor,pobre,ADJ,2 - Descriptions
+young,joven,ADJ,2 - Descriptions
+elderly,anciano/a,ADJ,2 - Descriptions
+pretty/nice,bonito/a,ADJ,2 - Descriptions
+ugly,feo/a,ADJ,2 - Descriptions
+handsome/attractive,guapo/a,ADJ,2 - Descriptions
+fat,gordo/a,ADJ,2 - Descriptions
+thin/slim,delgado/a,ADJ,2 - Descriptions
+near/close,cerca,ADJ,2 - Descriptions
+far,lejos,ADJ,2 - Descriptions
+here,aquí,ADJ,2 - Descriptions
+there,allí,ADJ,2 - Descriptions
+together,juntos/as,ADJ,2 - Descriptions
+safe/sure,seguro/a,ADJ,2 - Descriptions
+dangerous,peligroso/a,ADJ,2 - Descriptions
+ready/clever,listo/a,ADJ,2 - Descriptions
+content/happy,contento/a,ADJ,3 - Emotions & Character
+angry,enojado/a,ADJ,3 - Emotions & Character
+scared/frightened,asustado/a,ADJ,3 - Emotions & Character
+surprised,sorprendido/a,ADJ,3 - Emotions & Character
+bored/boring,aburrido/a,ADJ,3 - Emotions & Character
+excited/emotional,emocionado/a,ADJ,3 - Emotions & Character
+nervous,nervioso/a,ADJ,3 - Emotions & Character
+calm/tranquil,tranquilo/a,ADJ,3 - Emotions & Character
+worried,preocupado/a,ADJ,3 - Emotions & Character
+proud,orgulloso/a,ADJ,3 - Emotions & Character
+ashamed/embarrassed,avergonzado/a,ADJ,3 - Emotions & Character
+jealous,celoso/a,ADJ,3 - Emotions & Character
+nice/likeable,simpático/a,ADJ,3 - Emotions & Character
+unpleasant,antipático/a,ADJ,3 - Emotions & Character
+kind/friendly,amable,ADJ,3 - Emotions & Character
+intelligent,inteligente,ADJ,3 - Emotions & Character
+silly/stupid,tonto/a,ADJ,3 - Emotions & Character
+funny,gracioso/a,ADJ,3 - Emotions & Character
+serious,serio/a,ADJ,3 - Emotions & Character
+hardworking,trabajador/a,ADJ,3 - Emotions & Character
+lazy,perezoso/a,ADJ,3 - Emotions & Character
+honest,honesto/a,ADJ,3 - Emotions & Character
+liar/dishonest,mentiroso/a,ADJ,3 - Emotions & Character
+generous,generoso/a,ADJ,3 - Emotions & Character
+selfish,egoísta,ADJ,3 - Emotions & Character
+patient,paciente,ADJ,3 - Emotions & Character
+impatient,impaciente,ADJ,3 - Emotions & Character
+curious,curioso/a,ADJ,3 - Emotions & Character
+creative,creativo/a,ADJ,3 - Emotions & Character
+responsible,responsable,ADJ,3 - Emotions & Character
+special,especial,ADJ,4 - Useful Intermediate
+normal,normal,ADJ,4 - Useful Intermediate
+strange/weird,extraño/a,ADJ,4 - Useful Intermediate
+rare/weird,raro/a,ADJ,4 - Useful Intermediate
+popular,popular,ADJ,4 - Useful Intermediate
+famous,famoso/a,ADJ,4 - Useful Intermediate
+modern,moderno/a,ADJ,4 - Useful Intermediate
+ancient/old,antiguo/a,ADJ,4 - Useful Intermediate
+public,público/a,ADJ,4 - Useful Intermediate
+private,privado/a,ADJ,4 - Useful Intermediate
+natural,natural,ADJ,4 - Useful Intermediate
+social,social,ADJ,4 - Useful Intermediate
+political,político/a,ADJ,4 - Useful Intermediate
+economic,económico/a,ADJ,4 - Useful Intermediate
+cultural,cultural,ADJ,4 - Useful Intermediate
+international,internacional,ADJ,4 - Useful Intermediate
+national,nacional,ADJ,4 - Useful Intermediate
+local,local,ADJ,4 - Useful Intermediate
+personal,personal,ADJ,4 - Useful Intermediate
+general,general,ADJ,4 - Useful Intermediate
+total,total,ADJ,4 - Useful Intermediate
+real,real,ADJ,4 - Useful Intermediate
+formal,formal,ADJ,4 - Useful Intermediate
+final,final,ADJ,4 - Useful Intermediate
+main/principal,principal,ADJ,4 - Useful Intermediate
+central,central,ADJ,4 - Useful Intermediate
+simple,simple,ADJ,4 - Useful Intermediate
+complex,complejo/a,ADJ,4 - Useful Intermediate
+direct,directo/a,ADJ,4 - Useful Intermediate
+indirect,indirecto/a,ADJ,4 - Useful Intermediate
+positive,positivo/a,ADJ,4 - Useful Intermediate
+negative,negativo/a,ADJ,4 - Useful Intermediate
+active,activo/a,ADJ,4 - Useful Intermediate
+passive,pasivo/a,ADJ,4 - Useful Intermediate
+physical,físico/a,ADJ,4 - Useful Intermediate
+mental,mental,ADJ,4 - Useful Intermediate
+interior/inner,interior,ADJ,4 - Useful Intermediate
+exterior/outer,exterior,ADJ,4 - Useful Intermediate
+previous/front,anterior,ADJ,4 - Useful Intermediate
+later/rear,posterior,ADJ,4 - Useful Intermediate
+right (direction),derecho/a,ADJ,5 - Advanced
+left,izquierdo/a,ADJ,5 - Advanced
+deep/profound,profundo/a,ADJ,5 - Advanced
+superficial/shallow,superficial,ADJ,5 - Advanced
+wide/broad,amplio/a,ADJ,5 - Advanced
+narrow,estrecho/a,ADJ,5 - Advanced
+thick,grueso/a,ADJ,5 - Advanced
+heavy,pesado/a,ADJ,5 - Advanced
+light,ligero/a,ADJ,5 - Advanced
+hard/tough,duro/a,ADJ,5 - Advanced
+soft/smooth/gentle,suave,ADJ,5 - Advanced
+sweet,dulce,ADJ,5 - Advanced
+bitter,amargo/a,ADJ,5 - Advanced
+salty,salado/a,ADJ,5 - Advanced
+spicy,picante,ADJ,5 - Advanced
+fresh/cool,fresco/a,ADJ,5 - Advanced
+mature/ripe,maduro/a,ADJ,5 - Advanced
+raw,crudo/a,ADJ,5 - Advanced
+cooked,cocido/a,ADJ,5 - Advanced
+sacred/holy,sagrado/a,ADJ,5 - Advanced
+secular/lay,laico/a,ADJ,5 - Advanced
+unique/only,único/a,ADJ,5 - Advanced
+multiple,múltiple,ADJ,5 - Advanced
+double,doble,ADJ,5 - Advanced
+triple,triple,ADJ,5 - Advanced
+recent,reciente,ADJ,5 - Advanced
+future,futuro/a,ADJ,5 - Advanced
+past,pasado/a,ADJ,5 - Advanced
+current/present,actual,ADJ,5 - Advanced
+temporary,temporal,ADJ,5 - Advanced
+permanent,permanente,ADJ,5 - Advanced
+urgent,urgente,ADJ,5 - Advanced
+serious/severe,grave,ADJ,5 - Advanced
+mild/slight,leve,ADJ,5 - Advanced
+absolute,absoluto/a,ADJ,5 - Advanced
+relative,relativo/a,ADJ,5 - Advanced
+fair/just,justo/a,ADJ,5 - Advanced
+unfair/unjust,injusto/a,ADJ,5 - Advanced
+legal,legal,ADJ,5 - Advanced
+illegal,ilegal,ADJ,5 - Advanced
+correct,correcto/a,ADJ,5 - Advanced
+incorrect,incorrecto/a,ADJ,5 - Advanced
+available,disponible,ADJ,5 - Advanced
+capable,capaz,ADJ,5 - Advanced
+incapable,incapaz,ADJ,5 - Advanced
+sufficient/enough,suficiente,ADJ,5 - Advanced
+insufficient,insuficiente,ADJ,5 - Advanced
+known/well-known,conocido/a,ADJ,5 - Advanced
+unknown,desconocido/a,ADJ,5 - Advanced
+dear/beloved,querido/a,ADJ,5 - Advanced
+hated,odiado/a,ADJ,5 - Advanced
+lost,perdido/a,ADJ,5 - Advanced
+found,encontrado/a,ADJ,5 - Advanced
+broken,roto/a,ADJ,5 - Advanced
+whole/entire,entero/a,ADJ,5 - Advanced
+successful,exitoso/a,ADJ,5 - Advanced
